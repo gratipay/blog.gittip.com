@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Gittip Blog" /><meta property="og:url" content="http://blog.gittip.com/?og=1" /><meta property="og:description" content="" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://38.media.tumblr.com/avatar_6fc1e89e5818_128.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="gittip-blog" /><meta name="twitter:description" content=" " /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                    <a href='/page/9'><button>&#171; Older</button></a>
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+                    <a href='/page/7'><button>Newer &#187;</button></a>
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/26568603571/the-plan">The Plan</a></h1>
+                    
+                    
+                    <div class="meta">July 5, 2012, 2:02 pm 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/26568603571/the-plan'>Permalink</a></div>
+                    
+                    
+                    <p>Yesterday, Alex Gaynor explained why he <a href="http://alexgaynor.net/2012/jul/04/why-personal-funding/">supports personal funding</a> for open source developers, namely that &#8220;open source is an obscenely efficient way to develop software.&#8221; Russell Keith-Magee agreed (as do I), and then hit the nail on the head when he added that, for personal funding to work in open source, what&#8217;s really needed is <a href="http://cecinestpasun.com/entries/personal-funding-and-culture-open-source/">a cultural change</a>:</p>
+<blockquote>
+<p>But the whole personal funding approach won&#8217;t work unless you can get a non-trivial proportion of those 1.7 million Github users to contribute financially. So for me, the real question is how to affect the social change that makes donation like this the rule, not the exception. <strong>Unless there&#8217;s a plan</strong> for how to get to there from here, my concern is that Gittip won&#8217;t move beyond a well-intentioned, but small-scale experiment. [emphasis added]</p>
+</blockquote>
+<p>I&#8217;d like to offer a few thoughts on what I see as &#8220;the plan.&#8221;</p>
+<h4>The Vision and the Next Step</h4>
+<p>A few years ago I worked for a non-profit that was trying to effect social change, and basically succeeded. The model that we followed was called &#8220;transformational change&#8221; by our organization&#8217;s leadership and the consultants they were listening to. The core idea is this: <em>All you can count on is the vision and the next step.</em> Here&#8217;s an image I put together at the time to capture my understanding of transformational change:</p>
+<p><img src="http://media.tumblr.com/tumblr_m6p5v8XlYD1rn81gb.jpg"/></p>
+<p>From where you stand now (A), you see the mountaintop you&#8217;re trying to reach in the distance (Z), and you have a general idea of what lies between, but the only step you&#8217;re really clear on is the next one (B). So <strong>take the next step!</strong> Don&#8217;t get distracted speculating about the ground between (B) and (Z), because it&#8217;s too uncertain, full of unknown obstacles and opportunities. Bringing about transformational change means reacting to many, many realities that are out of your control and off your radar, given where you stand right now.</p>
+<p>We&#8217;ve already seen this illustrated in Gittip&#8217;s short life. Who knew that in week two <a href="http://blog.gittip.com/post/25565694263/how-not-to-get-acquired">our credit card processor would fail</a>, and we&#8217;d have to rebuild from scratch? We had to react to that when it became step (B), the next step. If we had spent time protecting against that risk earlier, week one never would have happened. The good news is that we bounced back, and here in week five we have 64 credit cards on file, more than double the 26 we had before starting over.</p>
+<p>My vision for Gittip is a culture of giving, where we as a community enable each other to freely pursue our vision of how to make the world better. I love this quote from Jessica Jackley, co-founder of Kiva, on the <a href="http://www.theatlantic.com/technology/archive/2012/07/the-power-and-the-peril-of-our-crowdfunded-future/259304/">cultural shift that Kiva has witnessed</a> and been a part of: &#8220;hundreds of thousands of people have given up financial return [&#8230;] in exchange for the feeling of participation in someone else&#8217;s story.&#8221; Yes!</p>
+<p>What&#8217;s the next step? To run Gittip #5 tomorrow. It looks like we&#8217;ll have 1.5x givers and 2.5x volume over last week. That&#8217;s not nothing.</p>
+<h4>A Swarm of Bees</h4>
+<p>I also take inspiration from the following passage from Leo Tolstoy&#8217;s book, <em><a href="http://www.gutenberg.org/cache/epub/4602/pg4602.txt">The Kingdom of God is Within You</a></em>, where he eloquently describes the interplay of group and individual required for social change to occur. The book, published in 1894,  presciently describes what we would now call the <a href="http://en.wikipedia.org/wiki/Diffusion_of_innovations">diffusion of innovations</a>.</p>
+<blockquote>
+<p>Men [sic] in their present condition are like a swarm of bees hanging in a cluster to a branch. The position of the bees on the branch is temporary, and must inevitably be changed. They must start off and find themselves a habitation. Each of the bees knows this, and desires to change her own and the others&#8217; position, but no one of them can do it till the rest of them do it. They cannot all start off at once, because one hangs on to another and hinders her from separating from the swarm, and therefore they all continue to hang there. It would seem that the bees could never escape from their position[&#8230;.] And there would be no escape for the bees, if each of them were not a living, separate creature, endowed with wings of its own. Similarly there would be no escape for men, if each were not a living being[.]</p>
+<p>If every bee who could fly, did not try to fly, the others, too, would never be stirred, and the swarm would never change its position. [&#8230;] But only let one bee spread her wings, start off, and fly away, and after her another, and another, and the clinging, inert cluster would become a freely flying swarm of bees. </p>
+</blockquote>
+<p>Which is to say that &#8220;the plan&#8221; to effect the cultural change that Gittip needs to succeed is the same as that for any other cultural change. The plan is for millions of people to each individually adopt a new outlook. As Tolstoy goes on to say: </p>
+<blockquote>
+<p>But men think that to set all men free by this means is too slow a process, that they must find some other means by which they could set all men free at once. It is just as though the bees who want to start and fly away should consider it too long a process to wait for all the swarm to start one by one; and should think they ought to find some means by which it would not be necessary for every separate bee to spread her wings and fly off, but by which the whole swarm could fly at once where it wanted to. But that is not possible; till a first, a second, a third, a hundredth bee spreads her wings and flies off of her own accord, the swarm will not fly off and will not begin its new life.</p>
+</blockquote>
+<p>My plan is to take the next step in front of me, to start hovering away from the swarm a little bit, and encourage others to do the same.</p>
+<h4>Plenty to Do</h4>
+<p>Now, of course that doesn&#8217;t mean that there&#8217;s not plenty to do, nor that discussing possible ways to reach out to the open source community and evangelize the idea of personal funding is time wasted. What I want to establish is that I have no big Master Plan, and that that&#8217;s a good thing. Let&#8217;s be clear on that, and then by all means <a href="https://github.com/whit537/www.gittip.com/issues/109">let&#8217;s figure out how to get this swarm moving</a>!</p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/26505682007/is-personal-funding-viable">Is Personal Funding Viable?</a></h1>
+                    
+                    
+                    <div class="meta">July 4, 2012, 2:53 pm 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/26505682007/is-personal-funding-viable'>Permalink</a></div>
+                    
+                    
+                    <p>The goal for <a href="https://www.gittip.com/">Gittip</a> is for people to find a living on it. If you build free culture or otherwise devote your energy to making the world better, I want you to be able to pay your mortgage and your phone bill and put gas in your car entirely from money you receive on Gittip. That&#8217;s my goal. Of course there will be plenty of people with a day job that receive some supplemental income on Gittip, a thank you for the free work they&#8217;re able to do on the side, a little extra money for beer or coffee. But I want finding a living entirely on Gittip to be a normal thing to do. I say &#8220;finding&#8221; a living instead of &#8220;earning&#8221; or &#8220;making&#8221; a living to emphasize that Gittip is about free, no-strings-attached gifts. Gittip isn&#8217;t a job. You don&#8217;t have a manager telling you how to spend your time in exchange for the money you receive through Gittip. We trust you.</p>
+<p>Is full personal funding viable with Gittip? We started out with the ability to gift tip someone a few cents a week. The possible amounts were 8¢, 16¢, 32¢, 64¢, and $1.28. But when we <a href="https://github.com/whit537/www.gittip.com/issues/95">looked at the numbers</a>, it seemed like this wasn&#8217;t going to add up. A fairly popular open source programmer will have maybe 5,000 followers on Twitter. If all of those followers tipped 64¢, that would add up to $3,200 per week, or $166,400 per year. That&#8217;s in <a href="http://www.payscale.com/top-tech-employers-compared-2012/pay">the ballpark</a> of what a mid-career engineer can expect at a top tech company, which is approximately what we&#8217;re aiming for. If a top open-source programmer can only find $30,000 a year through Gittip, then Gittip isn&#8217;t working properly.</p>
+<p>The problem is that not all 5,000 followers can be expected to tip. Instead we should expect a few people to tip a lot, and a long tail of people to tip a little. The same is true from the other side of the equation: there are a few people I want to truly support, and then a lot more folks that I&#8217;d be happy giving a &#8220;token amount&#8221; to each week.</p>
+<p>Today on Gittip I rolled out new amounts that will hopefully make personal funding through Gittip more viable. The new amounts are 25¢, $3, $6, $12, and $24. That&#8217;s an order of magnitude jump, and it&#8217;s designed to make full personal funding viable on Gittip. The numbers we&#8217;re shooting for here are something like 3,000 people tipping 25¢ a week, and 500 people tipping an average of $5 a week, which would add up to $3,250 per week, or $169,000 per year.</p>
+<p>Notice the gap between 25¢ and $3. The idea is to streamline the decision to tip someone a token amount. Once you&#8217;ve identified someone as part of your long tail, then the difference between 16¢ and 32¢ isn&#8217;t that useful. With just one token option we make it easy. But for those you want to really invest in, it&#8217;s worth a few extra moments to make a decision between three, six, 12, and 24 dollars per week. The top amount is about $100 a month, which is about as significant a donation as we can make without threatening the anonymous, no-strings-attached nature of the gift. No single giver should have an overly large impact on a recipient.</p>
+<p>Tips for the old amounts are grandfathered in. However, once you change away from that tip amount you won&#8217;t be able to change back. You&#8217;ll need to go with one of the new amounts.</p>
+<p>I&#8217;m really excited to find out who the first person will be to announce that they&#8217;re fully personally funded on Gittip. <a href="https://www.gittip.com/alex/">Alex Gaynor</a>? <a href="https://www.gittip.com/jezdez/">Jannis Leidel</a>? <a href="https://www.gittip.com/jtauber/">James Tauber</a>? Each has expressed interest in the idea, and I&#8217;m sure there are other people making the world better that would love nothing more than to be freed up to pursue their vision even further.</p>
+<p>Let&#8217;s <a href="https://www.gittip.com/">make it happen</a>!</p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/26350459746/the-first-open-company">The First Open Company</a></h1>
+                    
+                    
+                    <div class="meta">July 2, 2012, 11:58 am 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/26350459746/the-first-open-company'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> is not just another web app or start-up, it&#8217;s a new <em>kind</em> of company. I&#8217;m calling it an &#8220;open company,&#8221; and here are its three defining principles:</p>
+<ol><li><strong>Share as much as possible.</strong> An open company develops all of its products publicly, and freely shares all of its intellectual property. Any software it writes is open source. It publishes as much financial and other data as it can without compromising customer privacy. All employees of the company are publicly listed along with their level of access to private company information and private customer data.</li>
+<li><strong>Charge as little as possible.</strong> An open company tries to charge as little for its products and services as possible. Price to cost, that is, instead of to value.</li>
+<li><strong>Don&#8217;t compensate employees.</strong> Employees of an open company don&#8217;t earn a wage or salary or receive benefits from the company. Their only distinction from non-employees is their access to sensitive data, such as private customer data, passwords, and detailed financial information.</li>
+</ol><p>Open companies are situated within the wider movement of free and open culture. <a href="https://www.gittip.com/">Gittip</a> itself provides a way for anyone building free culture, including employees and participants in an open company, to be reciprocally gifted by a community of like-minded individuals. The idea is that employees of an open company, along with all those who share in the wider task of building whatever it is the company &#8220;owns&#8221; (really it&#8217;s a commons) would receive the money they still need to pay their bills via <a href="https://www.gittip.com/">Gittip</a> or similar means.</p>
+<h4>What about &#8230;?</h4>
+<p>An open company clearly differs from a <strong>for-profit</strong> company in that an open company maximizes instead of minimizes transparency, prices to cost instead of value, and does not compensate its employees.</p>
+<p>An open company differs from a <strong>cooperative</strong> in that the resources of the open company are developed for the benefit of society as a whole, and not just the mutual benefit of the members of the cooperative. An open company in which the formal employees shared legal ownership might technically be an open cooperative.</p>
+<p>An open company differs from a <strong>non-profit</strong> organization in that an open company is not registered as a charity with a government, and does not itself accept donations. An open company also does not have a paid staff, as most non-profits do in practice. From the open company&#8217;s point of view, whether and how its employees receive money and for what, is undefined.</p>
+<p>An open company differs from an <strong>open source</strong> project in that an open company is a formal legal entity, and needn&#8217;t be about software.</p>
+<p>An open company differs from a <strong><a href="http://www.bcorporation.net/about">B Corporation</a></strong> in that an open company is not centrally certified (yet?), and does not compensate its employees.</p>
+<p>I would be happy to learn about any existing open companies or similar entities. To my knowledge this is the first.</p>
+<p><strong>UPDATE:</strong> Alexander Stigsen invented the <a href="https://medium.com/building-gittip/4cbab7ca1a47">open company in 2009 for E Text Editor</a><strong>.</strong></p>
+<h4>Who is behind Gittip?</h4>
+<p><a href="https://www.gittip.com/">Gittip.com</a> is owned and operated by Gittip, LLC, a Pennsylvania company owned by <a href="https://www.gittip.com/whit537/">Chad Whitacre</a>. <span>Chad can be reached via </span><a href="mailto:chad@zetaweb.com">email</a><span>, </span><a href="https://twitter.com/#!/whit537">twitter</a><span>, or cell phone at +1-412-925-4220, or in person at 716 Park Road, Ambridge, PA 15003, USA.</span></p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/25565694263/how-not-to-get-acquired">How Not to Get Acquired</a></h1>
+                    
+                    
+                    <div class="meta">June 21, 2012, 4:46 am 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/25565694263/how-not-to-get-acquired'>Permalink</a></div>
+                    
+                    
+                    <p>I launched <a href="https://www.gittip.com/">Gittip.com</a> 16 days ago. It saw really strong initial uptake, then it got side-swiped by a botched acquisition. Herewith, a cautionary tale.</p>
+<hr><p><strong>Update:</strong> I had a phone conversation with Sean Harper, co-founder of FeeFighters, which is <a href="http://news.ycombinator.com/item?id=4143798">summarized in this Hacker News comment</a>.</p>
+<p><strong>Update 2:</strong> Here is <a href="http://news.ycombinator.com/item?id=4144075">a general response from Sean</a>.</p>
+<hr><h4>My Beginnings with Samurai</h4>
+<p>I don&#8217;t remember where I first ran across <a href="https://samurai.feefighters.com/">Samurai</a> exactly. It is (was) a credit-card processing product from a start-up called FeeFighters. I was drawn in by their well-designed marketing site, which carried through into the management UI and the API. Good first impression. There were one or two rough edges signing up for their service, but all in all it was smooth. And what hiccups there were were more than compensated for by their excellent customer service. Multiple team members were available in a Campfire chatroom, at all hours. I ended up getting acquainted with two in particular, <a href="https://twitter.com/#!/seanharper">Sean Harper</a>, the CEO, and <a href="https://twitter.com/#!/pitdesi">Sheel Mohnot</a>, in charge of business development. I live in Pittsburgh, where Sheel went to school, and they&#8217;re in Chicago, where I went to school, so we connected easily.</p>
+<p>My first project using Samurai was the Minimum Viable App. Literally all it did was allow people to give me money via credit card. I made my first online dollar through the site. My second project was <a href="https://www.ihasamoney.com/">IHasAMoney.com</a>, a personal finance website for geeks&#8212;Mint.com sans the evil; $2.99 a month. As of this writing that site is still up, though it&#8217;s stalled because there really is no good way to aggregate financial data apart from what Mint does, namely, <a href="http://www.youtube.com/watch?v=H841U6RhrDU#t=5m39s">storing cleartext passwords and screenscraping your bank</a>:</p>
+<p><iframe frameborder="0" height="360" src="http://www.youtube.com/embed/H841U6RhrDU#t=5m39s" width="480"></iframe></p>
+<p>Plan C (more like plan N, really): Gittip! Tips for GitHub, but so much more. Recurring micro-payment gifts, <a href="https://www.gittip.com/about/">crowd-sourced genius grants for the rest of us</a>. Sweet, okay. Samurai! Well, it turns out that in the seven months since I became a customer, FeeFighters was <a href="http://techcrunch.com/2012/03/23/groupon-acquires-feefighters-the-billshrink-for-business-services/">acquired by GroupOn</a>. The <a href="http://feefighters.com/blog/feefighters-acquired/">horse says</a>, predictably, that &#8220;[t]he FeeFighters marketplace, our Samurai gateway and the FeeFighters and Samurai brands are continuing as before.&#8221; Hacker News is <a href="http://news.ycombinator.com/item?id=3747076">doubtful</a>.</p>
+<p>Unfortunately, the doubters were right, in my experience.</p>
+<h4>Samurai Fails Me When I Need It Most</h4>
+<p>Gittip operates on a weekly schedule. We pull money in via credit card every Friday and distribute gifts averaging about 50¢ amongst the members of the Gittip community. In week one we moved $25. In week two we were supposed to move $55, more than double the first week. But Samurai failed. Over half of the credit cards we attempted to bill failed with the message: &#8220;undefined method `[]&#8217; for false:FalseClass,&#8221; which smells to me a lot more like a Samurai issue than a genuine credit card failure. We moved $4.</p>
+<p>So I reached out. Naturally, I went first to the Campfire chatroom where I had first gotten to know Sean and the team. Turns out it&#8217;s now <a href="http://feefighters.campfirenow.com/db381">password-protected</a>. Okay, let&#8217;s try the phone number, +1-855-FIGHTER (344-4837). Go ahead and call it. See if you get a recording, &#8220;You have reached a non-working number,&#8221; like I do. This was the point at which I discovered via Google that they had been acquired.</p>
+<p>I started looking at other vendors. I&#8217;d heard good things about both <a href="https://stripe.com/">Stripe</a> and <a href="https://www.braintreepayments.com/">Braintree</a>, and quickly ended up in conversations with both. My Braintree sales rep (also in Chicago) offered that GroupOn had let the FeeFighters support team go, and had only kept Sean and one dev. That&#8217;s from a competitor, and I&#8217;d take it with a grain of salt, except that all the support channels have, in fact, been shut down. It turns out that I sent three emails to samurai@feefighters.com, which <a href="https://feefighters.zendesk.com/home">funnels into a ZenDesk</a>, starting on May 15. The first one ends with, &#8220;P.S. No more campfire?&#8221; All are status &#8220;new&#8221; and unassigned.</p>
+<p><img src="http://media.tumblr.com/tumblr_m5yh2ovn5Y1rn81gb.png"/></p>
+<p>I reached out on Twitter. I tweeted @FeeFighters five times (<a href="https://twitter.com/whit537/status/213002729352740864">1</a>, <a href="https://twitter.com/whit537/status/213656702732599296">2</a>, <a href="https://twitter.com/whit537/status/213656968949284864">3</a>, <a href="https://twitter.com/whit537/status/213721111668592640">4</a>, <a href="https://twitter.com/whit537/status/215447889437147136">5</a>). No response yet. I <a href="https://twitter.com/whit537/status/215233861012041728">asked Sean</a> to help me migrate my data. No response yet. I <a href="https://twitter.com/whit537/status/215447889437147136">invited Sheel</a> to shed some light. No response yet. I emailed Sheel per <a href="http://news.ycombinator.com/user?id=pitdesi">his Hacker News profile</a>. No response yet.</p>
+<p>In the mean time, of course, my first remotely successful venture in 10 years of trying is in danger of getting squished right out of the gate. More importantly, I&#8217;m on the hook for 25 people&#8217;s credit card data stored PCI-compliantly away inside a dying system. Gah!</p>
+<p>So I <a href="https://github.com/whit537/www.gittip.com/issues/58">migrated to Stripe</a>. I still may implement Braintree as a back-up, but there I&#8217;m blocked on trying to migrate my merchant account over from Samurai. Stripe doesn&#8217;t even give me the option of bringing my own merchant account. I also learned about <a href="https://www.dwolla.com/">Dwolla</a> in all of this, and I&#8217;m really <a href="https://github.com/whit537/www.gittip.com/issues/65">interested</a> in it. But Stripe was the lowest-hanging fruit.</p>
+<h4>Bottom Line for Gittip Users</h4>
+<p>Unfortunately, I felt that I had to redact all of the credit card information that I had stored with Samurai on behalf of Gittip&#8217;s users. I certainly didn&#8217;t feel comfortable leaving your data inside a dying system, and without support from FeeFighters, now GroupOn, I couldn&#8217;t migrate that data out. This means that Gittip is currently down to one credit card on file, mine, and I&#8217;m here trying to salvage the momentum of the first two weeks, during which Gittip had 5,900 unique visitors, 515 sign-ups, 25 credit cards entered, and some <a href="https://github.com/whit537/www.gittip.com/issues/28">amazing community involvement</a>.</p>
+<p>That said, I should have taken it more seriously when on May 15 I started noticing that FeeFighters was missing in action. I&#8217;m sorry for ignoring the warning signs and entrusting your data to a struggling vendor. If you still believe in Gittip and would like to help it bounce back, you can <a href="https://www.gittip.com/credit-card.html">re-enter your credit card details here</a>.</p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/25215503687/corporations-and-open-ones">Corporations, and Open Ones</a></h1>
+                    
+                    
+                    <div class="meta">June 16, 2012, 4:09 am 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/25215503687/corporations-and-open-ones'>Permalink</a></div>
+                    
+                    
+                    <p>There are some groups of humans doing absolutely fantastic work for the rest of us these days. Here are a few that I greatly appreciate:</p>
+<ul><li><strong><a href="https://github.com/">GitHub</a></strong>&#8212;Takes open source to the next level. Hopefully it can spill over into the rest of culture.</li>
+<li><strong><a href="http://www.heroku.com/">Heroku</a></strong>&#8212;The base platform as a service is slick enough, the Postgres service really puts it over the top.</li>
+<li><strong><a href="http://www.google.com/">Google</a></strong>&#8212;Search, natch. But also GMail, and lately Analytics, especially real-time&#8212;what a thrill to watch the current user count climb!</li>
+<li><strong><a href="https://stripe.com/">Stripe</a>, <a href="https://www.braintreepayments.com/">Braintree</a>, <a href="https://dwolla.com/">Dwolla</a></strong>&#8212;Moving money is waaaay easier than it was 10 years ago.</li>
+<li><strong><a href="https://twitter.com/">Twitter</a></strong>&#8212;They are providing a seamless fabric of communication with the people I want to work together with right now.</li>
+<li><strong><a href="http://www.tumblr.com/">Tumblr</a></strong>&#8212;My blogging problem is solved.</li>
+<li><strong><a href="http://iwantmyname.com/">IWantMyName</a></strong>&#8212;Straightforward domain registration without sex marketing. Finally.</li>
+<li><strong><a href="http://www.apple.com/">Apple</a></strong>&#8212;Their hardware and OS is so good that it took me a week to remember I was using it and realize that they belonged on this list.</li>
+</ul><p>In launching <a href="https://www.gittip.com/">Gittip</a> I am absolutely indebted to these corporations. I could never do what I&#8217;m doing without their products. And yet I would like to call attention to the fact that these entities are indeed comprised of humans. The notion of a &#8220;corporation&#8221; is a legal fiction, an abstraction. A specific human is responsible for the way issues are cross-linked in GitHub. Another specific human is responsible for the slide-out transition on the Tumblr HTML theme editor.</p>
+<p>The easier it is to identify these specific humans, the better. Why? Because praise and blame go together. It&#8217;s a problem right now that humans can hide behind corporate abstractions to perpetrate evil and banality. &#8220;I&#8217;m just doing my job. I have to feed my family.&#8221; Taming corporations means holding specific humans responsible, and not just top-level executives and scapegoats. The more open our corporations, the better.</p>
+<p>Tim Leberecht writes about the &#8220;<a href="http://www.fastcodesign.com/1669988/5-keys-to-building-a-business-that-doesnt-bury-the-humans-at-its-core">humanist business</a>.&#8221; I want to think in terms of the <em>open corporation</em>. Tim&#8217;s examples all enroll the business entity as the subject. Amex does this thing right. Patagonia does the other. In the humanist business, the group is still primary, though it strives to do right by the individual. I want to privilege the individual, if only by a hair. I want open corporations, open so you can see the people inside, praise each one when they do right, and call them out when they do wrong. It&#8217;s a subtle but significant difference.</p>
+<p>Legally speaking, Gittip may shake out as a cooperative or a corporation, it&#8217;s too early to tell. But I promise you this: it will continue to be as open as possible. Gittip development happens <a href="https://github.com/whit537/www.gittip.com">in the open</a>. Gittip&#8217;s finances will be in the open. And the specific humans contributing to Gittip will do so in the open, each personally responsible for their contributions.</p>
+                    
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/page/8?route=%2Fpage%2F%3Apage'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331708&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wYWdlXC84IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3BhZ2VcLzpwYWdlIn0=&U=NKAECAMBHO&K=7dcf0f352fa561e98dfb4c166537c9fe134e7098617767ab8c1f09ceee31f934&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F7'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331708&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wYWdlXC84IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3BhZ2VcLzpwYWdlIiwibm9zY3JpcHQiOjF9&U=NKAECAMBHO&K=ce9b646c43432c38cf1f88bfe6a42987d28364fa8ae16b052d6572637d318f2e&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F7"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331708&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcGFnZVwvOCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiIyNjU2ODYwMzU3MSIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNjUwNTY4MjAwNyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNjM1MDQ1OTc0NiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNTU2NTY5NDI2MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNTIxNTUwMzY4NyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dfQ==&U=CANDHJCPIE&K=8168af5c4f1a58c62416eb6d180c14d18fb593fe8aa168422edc1dd53103c3cb&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F7'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331708&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcGFnZVwvOCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiIyNjU2ODYwMzU3MSIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNjUwNTY4MjAwNyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNjM1MDQ1OTc0NiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNTU2NTY5NDI2MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIyNTIxNTUwMzY4NyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=CANDHJCPIE&K=fca686efc7acfd511895a25d02e73a47a4db839c96be411da9215c94f4866fc2&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F7"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/page/:page',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 8;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

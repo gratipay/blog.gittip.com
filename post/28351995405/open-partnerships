@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Open Partnerships - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=28351995405" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Open Partnerships" /><meta property="og:url" content="http://blog.gittip.com/post/28351995405/open-partnerships" /><meta property="og:description" content="Gittip is a personal funding platform, a way to support people who make the world better by building free culture for the rest of us. We launched eight weeks ago and currently move &#36;950 per week in..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=28351995405" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=28351995405" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Gittip is a personal funding platform, a way to support people who make the world better by building free culture for the rest of us. We launched eight weeks ago and currently move &#36;950 per week in small, recurring, anonymous gifts. If that sounds interesting you should join the site and support your favorite programmer.
+ Now something serendipitous is happening with Gittip: we are forming partnerships with third-party vendors in a really unusual way. I&amp;#8217;m calling these &amp;#8220;open partnerships&amp;#8221; because Gittip is an&nbsp;open company. Here are the features of Gittip&amp;#8217;s open partnerships:
+ The need or desire for a third-party vendor to solve a particular problem is raised within the Gittip community, manifesting as a ticket on GitHub.
+ Vendors who want Gittip&amp;#8217;s business are invited to make their case as equal participants in discussions that are open to the entire community.
+ Decisions about vendors are made in the same open way as any other decision.
+ Vendors are responsible to contribute code to Gittip to integrate with their service.&nbsp;
+ Vendors charge full price for their service. Gittip doesn&amp;#8217;t get some sort of non-profit or open-source discount, because Gittip is not a non-profit nor an open-source project.
+ Gittip&amp;#8217;s first open partnership is with Balanced Payments, a payment processor for marketplaces. After FeeFighters stranded us,&nbsp;and Stripe reluctantly asked us to leave, we were casting about for Plan C when Balanced showed up on GitHub and in IRC and volunteered to contribute the code to integrate with their service for charging credit cards. That code went live last week. They&amp;#8217;re currently working on a branch for ACH withdrawals, and have also started contributing visual design. The co-founders of the company are YC alumni, so they bring a lot to the table in terms of advice and networking as well. In my view they&amp;#8217;re doing a fantastic job of respecting Gittip as an open community, while making a smart move to acquire what essentially amounts to free business. I keep trying to sniff out whether this relationship is a bad idea, but so far I think it&amp;#8217;s just the good kind of weird.
+ It appears that things are going to get even good-weirder, because Dwolla now seems interested in pursuing a similar relationship. Dwolla&nbsp;intends to displace Visa by moving money for &#36;0.25 per transaction instead of 2.9% + &#36;0.30.
+ I believe having Dwolla at the table is in the best interest of the Gittip community, and I&amp;#8217;d like to welcome them. :-)
+ I look forward to deepening our relationship with Balanced. They are the true innovators of open partnerships, having seen the potential and reached out to initiate our relationship.
+ A third vendor that I would like to invite to the table is bitpay. While controversial, Gittip is getting steady pressure from users to support bitcoin, and bitpay seems to be the processor of choice.
+ I would also welcome an overture from SpreedlyCore, to possibly&nbsp;vault cards&nbsp;redundantly.
+ On a related note, I&amp;#8217;d like to thank Work For Pie, an alternative to resumes and current job boards, for integrating Gittip buttons with their user profiles. They are even offering to match gifts to users that are on both sites:
+
+
+ We&rsquo;re putting our money where our mouth is. Starting now, Work for Pie will contribute its own money to Gittip. &nbsp;We&amp;#8217;re working with the Gittip team to figure out how we can match tips made by others, and once that&amp;#8217;s ready we&amp;#8217;ll be doing so. It&rsquo;s not much, but it&rsquo;s our way of saying thank you to all the amazing open source developers out there.
+
+
+ These are all exciting partnerships! I never imagined two months ago that these sorts of open partnerships would develop. This kind of serendipity tells me that we might be on to something with Gittip and with open companies.
+ Do you have an idea for how your company can add value to the Gittip community? Start a conversation with me, Chad Whitacre, on Twitter, or participate in a conversation on GitHub, or join the #gittip channel on freenode." /><meta name="twitter:title" content="Open Partnerships" /><meta name="twitter:url" content="http://blog.gittip.com/post/28351995405/open-partnerships" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=28351995405&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=28351995405&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=28351995405&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/28351995405/open-partnerships">Open Partnerships</a></h1>
+                    
+                    
+                    <div class="meta">July 30, 2012, 3:17 pm 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/28351995405/open-partnerships'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> is a personal funding platform, a way to support people who make the world better by building free culture for the rest of us. We launched eight weeks ago and currently move $950 per week in small, recurring, anonymous gifts. If that sounds interesting you should <a href="https://www.gittip.com/">join the site</a> and support your favorite programmer.</p>
+<p>Now something serendipitous is happening with Gittip: we are forming partnerships with third-party vendors in a really unusual way. I&#8217;m calling these &#8220;open partnerships&#8221; because Gittip is an <a href="http://blog.gittip.com/post/26350459746/the-first-open-company">open company</a>. Here are the features of Gittip&#8217;s open partnerships:</p>
+<ul><li>The need or desire for a third-party vendor to solve a particular problem is raised within the Gittip community, manifesting as a ticket <a href="http://github.com/gittip/www.gittip.com/issues">on GitHub</a>.</li>
+<li>Vendors who want Gittip&#8217;s business are invited to make their case as equal participants in discussions that are open to the entire community.</li>
+<li>Decisions about vendors are made in the same open way as any other decision.</li>
+<li>Vendors are responsible to contribute code to Gittip to integrate with their service. </li>
+<li>Vendors charge full price for their service. Gittip doesn&#8217;t get some sort of non-profit or open-source discount, because Gittip is not a non-profit nor an open-source project.</li>
+</ul><p>Gittip&#8217;s first open partnership is with <a href="http://www.balancedpayments.com/">Balanced Payments</a>, a payment processor for marketplaces. After FeeFighters <a href="http://blog.gittip.com/post/25565694263/how-not-to-get-acquired">stranded us</a>, and Stripe reluctantly asked us <a href="https://github.com/gittip/www.gittip.com/issues/67">to leave</a>, we were casting about for Plan C when Balanced showed up on GitHub and in IRC and volunteered to contribute the <a href="https://github.com/gittip/www.gittip.com/pull/137">code to integrate</a> with their service for charging credit cards. That code went live last week. They&#8217;re currently working on a branch for ACH <a href="https://github.com/mjallday/www.gittip.com/tree/payouts">withdrawals</a>, and have also started contributing <a href="https://github.com/gittip/www.gittip.com/issues/66#issuecomment-7267192">visual design</a>. The co-founders of the company are YC alumni, so they bring a lot to the table in terms of advice and networking as well. In my view they&#8217;re doing a fantastic job of respecting Gittip as an open community, while making a smart move to acquire what essentially amounts to free business. I keep trying to sniff out whether this relationship is a bad idea, but so far I think it&#8217;s just the good kind of weird.</p>
+<p>It appears that things are going to get even <a href="https://twitter.com/balancedpayment/status/230007562752364544">good</a>-<a href="https://twitter.com/dwolla/status/230008364531347456">weirder</a>, because Dwolla now seems interested in <a href="https://github.com/whit537/www.gittip.com/issues/65#issuecomment-7372389">pursuing</a> a similar relationship. <a href="https://www.dwolla.com/">Dwolla</a> intends to displace Visa by moving money for $0.25 per transaction instead of 2.9% + $0.30.</p>
+<p>I believe having Dwolla at the table is in the best interest of the Gittip community, and I&#8217;d like to welcome them. :-)</p>
+<p>I look forward to deepening our relationship with Balanced. They are the true innovators of open partnerships, having seen the potential and reached out to initiate our relationship.</p>
+<p>A third vendor that I would like to invite to the table is <a href="https://bit-pay.com/">bitpay</a>. While controversial, Gittip is getting steady pressure from users to <a href="https://github.com/gittip/www.gittip.com/issues/14">support bitcoin</a>, and bitpay seems to be the processor of choice.</p>
+<p>I would also welcome an overture from <a href="https://spreedlycore.com/">SpreedlyCore</a>, to possibly <a href="https://github.com/gittip/www.gittip.com/issues/210">vault cards</a> redundantly.</p>
+<p>On a related note, I&#8217;d like to thank <a href="http://workforpie.com/">Work For Pie</a>, an alternative to resumes and current job boards, for integrating Gittip buttons with their user profiles. They are even offering to <a href="http://workforpie.posterous.com/why-were-supporting-gittip-12292">match gifts</a> to users that are on both sites:</p>
+<blockquote>
+<div>
+<p>We’re putting our money where our mouth is. Starting now, <a href="http://workforpie.com/" title="Work for Pie" target="_blank">Work for Pie</a> will contribute its own money to Gittip.  We&#8217;re working with the Gittip team to figure out how we can match tips made by others, and once that&#8217;s ready we&#8217;ll be doing so. It’s not much, but it’s our way of saying thank you to all the amazing open source developers out there.</p>
+</div>
+</blockquote>
+<p>These are all exciting partnerships! I never imagined two months ago that these sorts of open partnerships would develop. This kind of serendipity tells me that we might be on to something with <a href="https://www.gittip.com/">Gittip</a> and with <a href="http://blog.gittip.com/post/26350459746/the-first-open-company">open companies</a>.</p>
+<p>Do you have an idea for how your company can add value to the Gittip community? Start a conversation with me, <a href="https://www.gittip.com/whit537/">Chad Whitacre</a>, on <a href="https://twitter.com/whit537">Twitter</a>, or participate in a conversation <a href="https://github.com/gittip/www.gittip.com/issues">on GitHub</a>, or join the #gittip channel on freenode.</p>
+                    
+                    
+                        <h2>1 note</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/28351995405"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/28351995405/open-partnerships?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8yODM1MTk5NTQwNVwvb3Blbi1wYXJ0bmVyc2hpcHMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=DGDCBNCCKI&K=96315151617f78a5cd9882c32d153453a0468ecf9ab5d08c5f25134aa5703d65&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8yODM1MTk5NTQwNVwvb3Blbi1wYXJ0bmVyc2hpcHMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=DGDCBNCCKI&K=7207c2f0608c7804a97f46b30e2b83a2cd2c08c7f220332aaa8bb7792eae908a&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMjgzNTE5OTU0MDVcL29wZW4tcGFydG5lcnNoaXBzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMjgzNTE5OTU0MDUiLCJibG9naWQiOiI1OTYzMTg2OSIsInNvdXJjZSI6MzN9XX0=&U=HCAMBHJHAL&K=787685ac5c7f2ae6b04680ddd97c1516cf3d39fe28979ebee291187218504f77&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMjgzNTE5OTU0MDVcL29wZW4tcGFydG5lcnNoaXBzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMjgzNTE5OTU0MDUiLCJibG9naWQiOiI1OTYzMTg2OSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=HCAMBHJHAL&K=f707e6355e738d376db8caaae4aa7636ee8b5cb73315d6c65bd63014111740fb&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F28351995405%2Fopen-partnerships&amp;pid=28351995405&amp;rk=zCgmcTxp&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F28351995405%2Fopen-partnerships&amp;pid=28351995405&amp;rk=zCgmcTxp&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

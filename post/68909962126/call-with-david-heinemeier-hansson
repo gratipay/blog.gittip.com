@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Call with David Heinemeier Hansson - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=68909962126" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Call with David Heinemeier Hansson" /><meta property="og:url" content="http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson" /><meta property="og:description" content="Gittip founder Chad Whitacre participated in an open call with 37signals partner and Ruby on Rails founder David Heinemeier Hansson today. The call came about after David wrote a blog post three weeks..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=68909962126" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=68909962126" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Gittip founder Chad Whitacre participated in an open call with 37signals partner and Ruby on Rails founder David Heinemeier Hansson today. The call came about after David wrote a blog post three weeks ago, &amp;#8220;The perils of mixing open source and money.&amp;#8221; When he was subsequently introduced to Gittip, it kicked off a lengthy Twitter conversation that resulted in a response from Chad, followed by an invitation from David &amp;#8220;to have a longer discussion about this in person at some point.&amp;#8221; Thomas Fuchs kicked off another round of conversation 10 days ago, followed by a third round yesterday.
+ The basic topic of the conversation is how crowdfunding affects open-source. Open-source (like journalism)&nbsp;has achieved a delicate balance, where the parties involved know what the rules are, where the money stops and the open-source love (or the journalistic integrity) begins. This boundary is messy at times, but it&amp;#8217;s been more or less thoroughly explored and is well-understood by those involved. Crowdfunding upsets this stasis. Does crowdfunding corrupt open-source by introducing extrinsic motivation? Does it crowd out the intrinsic motivation that lies at the heart of open-source?
+ Here is the video of the call:
+ " /><meta name="twitter:title" content="Call with David Heinemeier Hansson" /><meta name="twitter:url" content="http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=68909962126&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=68909962126&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=68909962126&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson">Call with David Heinemeier Hansson</a></h1>
+                    
+                    
+                    <div class="meta">December 3, 2013, 4:34 pm 
+                    (8 months ago) &ndash; <a href='http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson'>Permalink</a></div>
+                    
+                    
+                    <p>Gittip founder Chad Whitacre participated in an open call with 37signals partner and Ruby on Rails founder David Heinemeier Hansson today. The call came about after David wrote a blog post three weeks ago, &#8220;<a href="http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html">The perils of mixing open source and money</a>.&#8221; When he was subsequently <a href="https://twitter.com/Bruce_Adams/status/400381703648473088">introduced</a> to Gittip, it kicked off a lengthy Twitter conversation that resulted in a <a href="https://medium.com/building-gittip/2c621dbd7541">response</a> from Chad, followed by an <a href="https://twitter.com/dhh/status/400760704803672064">invitation</a> from David &#8220;to have a longer discussion about this in person at some point.&#8221; Thomas Fuchs <a href="https://twitter.com/thomasfuchs/status/403880839995740161">kicked off</a> another round of conversation 10 days ago, followed by a <a href="https://twitter.com/whit537/status/407627022685319168">third round</a> yesterday.</p>
+<p>The basic topic of the conversation is how crowdfunding affects open-source. Open-source (like <a href="https://medium.com/building-gittip/7c266abbe54">journalism</a>) has achieved a delicate balance, where the parties involved know what the rules are, where the money stops and the open-source love (or the journalistic integrity) begins. This boundary is messy at times, but it&#8217;s been more or less thoroughly explored and is well-understood by those involved. Crowdfunding upsets this stasis. Does crowdfunding corrupt open-source by introducing extrinsic motivation? Does it crowd out the intrinsic motivation that lies at the heart of open-source?</p>
+<p>Here is the video of the call:</p>
+<p><iframe frameborder="0" height="315" src="//www.youtube.com/embed/p1E-svVd9Xc" width="560"></iframe></p>
+                    
+                    
+                        <h2>5 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note like tumblelog_alephzeta without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://alephzeta.tumblr.com/" title="alephzeta " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_6ecbb7cce17e_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://alephzeta.tumblr.com/" title="alephzeta" rel="nofollow">alephzeta</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_xopug without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://soundslike.xopug.com/" title="music for a #puglife " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_53de22673f11_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://soundslike.xopug.com/" title="music for a #puglife" rel="nofollow">xopug</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_frabrunelle without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://frabrunelle.tumblr.com/" title="Francis Brunelle " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_2ddadb606019_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://frabrunelle.tumblr.com/" title="Francis Brunelle" rel="nofollow">frabrunelle</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_madhums without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://madhums.tumblr.com/" title="madhums " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_f18e8098a683_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://madhums.tumblr.com/" title="madhums" rel="nofollow">madhums</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_ruby-magic without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.bccoelho.com/" title="Ruby Magic " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_4995c19e756a_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://blog.bccoelho.com/" title="Ruby Magic" rel="nofollow">ruby-magic</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/68909962126"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/68909962126/call-with-david-heinemeier-hansson?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC82ODkwOTk2MjEyNlwvY2FsbC13aXRoLWRhdmlkLWhlaW5lbWVpZXItaGFuc3NvbiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5In0=&U=NBDCDOIHLC&K=c89bba2619d999f280528f366df717c1a26e1f2ef275d398f15a49731ad5004c&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC82ODkwOTk2MjEyNlwvY2FsbC13aXRoLWRhdmlkLWhlaW5lbWVpZXItaGFuc3NvbiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=NBDCDOIHLC&K=ab9799786925d1a4af2c9d284763ced2fc1c4a8c1769e995a4585a9c009909c1&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3"></noscript><script>
+        (function (w,d) { 
+            'use strict'; 
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };           
+            var a = function () { 
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0]; 
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.min.js?_v=c12dc6d1225974846ed59abb54fe5010';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a); 
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNjg5MDk5NjIxMjZcL2NhbGwtd2l0aC1kYXZpZC1oZWluZW1laWVyLWhhbnNzb24iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2ODkwOTk2MjEyNiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dfQ==&U=LCFMECFGFD&K=5eae97e2905a389b6f52634fc86f8ec889d7b4d2579fa8bb3708f733da98b5b6&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNjg5MDk5NjIxMjZcL2NhbGwtd2l0aC1kYXZpZC1oZWluZW1laWVyLWhhbnNzb24iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2ODkwOTk2MjEyNiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=LCFMECFGFD&K=3c9cc8f38ecb4b663c39ef4b2bba21de43bec48bde84757909036c0ba473a410&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F68909962126%2Fcall-with-david-heinemeier-hansson&amp;pid=68909962126&amp;rk=YMMf9S32&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F68909962126%2Fcall-with-david-heinemeier-hansson&amp;pid=68909962126&amp;rk=YMMf9S32&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Design Gittip - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=41348666944" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Design Gittip" /><meta property="og:url" content="http://blog.gittip.com/post/41348666944/design-gittip" /><meta property="og:description" content="Design community, I need your help. There&rsquo;s a stigma associated with Gittip that it&rsquo;s only for open source programmers. To be sure, some of that comes from the name (which we tried hard to change, but..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://media.tumblr.com/ac566e8621589d231c794020c7b53123/tumblr_inline_mh4b7bbEsY1rn81gb.png" /><meta property="og:image" content="http://media.tumblr.com/2d95cd6ee261fb7d72a98555b92049e7/tumblr_inline_mh4b84OI3O1rn81gb.png" /><meta property="og:image" content="http://media.tumblr.com/135ee65a2f36d361d08b311a561d5dff/tumblr_inline_mh4b8fgua91rn81gb.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=41348666944" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=41348666944" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Design community, I need your help. There&rsquo;s a stigma associated with Gittip that it&rsquo;s only for open source programmers. To be sure, some of that comes from the name (which we tried hard to change, but which we just need to live with for now). My sense is that the bigger problem is that the visual design that Gittip launched with seven months ago is holding us back from being taken seriously by the design community and by design-conscious communities such as musicians, writers, and artists. This is a bummer because that&rsquo;s exactly who we want Gittip to work for. I want to support my favorite musicians on Gittip.
+ Within weeks of launching we started a ticket to &ldquo;change the visual design of Gittip.&rdquo; It proved to be a fairly popular ticket, and a month later we received a design contribution from Damon Chin (an employee of Gittip&rsquo;s payments partner, Balanced). This languished for want of an implementor until last week, when Nick Sergeant stepped forward to convert Damon&rsquo;s design to markup. That&rsquo;s definitely going to move the needle for us, and I&rsquo;m grateful to Damon and Nick for diving in. This post is about how to go even further.
+ Three weeks ago I announced that Gittip is hiring. This caused some controversy due to the fact that, as an open company, Gittip doesn&rsquo;t compensate its employees, but the fact is that we now have a dozen people actively contributing to Gittip. This is fantastic! Our bottleneck, though, is front-end expertise.
+ Nick&rsquo;s sweet spot for us is going to be converting design files to markup. Damon&rsquo;s contribution came through his employer, and, while I love Balanced, we need to not lean too heavily on them. Gittip needs to build its own team. Therefore, I&rsquo;m looking for someone with a passion for web product design to join the Gittip team.
+ What is it we&rsquo;re building?
+Core Product
+ Here&rsquo;s a high-level overview of Gittip as a product:
+ Profiles. We enable individuals to tell a story about how they&rsquo;re making the world better.
+ Giving. We enable individuals to participate in each other&rsquo;s stories through long-term, no-strings-attached, financial gifts.
+ Communities. We enable communities to tell and sustain a collective story.
+Extension Points
+ Here are the ways Gittip interfaces with other sites:
+ Connecting Accounts. We support connecting as many other services as possible to a Gittip profile. A few of these other services can also be used to authenticate with Gittip and/or move money into or out of Gittip.
+ Partnerships. We seek out partnerships with third parties to add Gittip links in their products. We practice engineering as marketing.
+ Browser Extension. We provide extensions for all major browsers, adding Gittip links on websites with whom we&rsquo;re not yet partners.
+ Widgets. We provide ways for participants to embed Gittip functionality on other websites.
+ API. We provide APIs that enable third parties to build tools for participants to work with their data stored in Gittip.
+
+Visual Design Requirements
+ Here are the visual design requirements for Gittip as I see them:
+ Name: &ldquo;Gittip&rdquo; (not &ldquo;GitTip&rdquo;)
+ Motto: &ldquo;Inspiring Generosity&rdquo;
+ Logo:  (&ldquo;Heart Coin&rdquo;)
+ Colors:  (#614C3E) and  (#2A8F79)
+ Typography is open game, but web fonts only (no typography via images).
+ Responsive design.
+ We can use Bootstrap (or another framework) for laying out the grid and handling responsiveness, but &amp;#8230;
+ We need to have a fully customized look and feel, including forms.
+ Products I admire greatly: Stripe, Airbnb, Gumroad.
+
+Information Architecture
+ Below are the pages we have and need for Gittip.
+ / - Homepage focuses on high-level aggregate data.
+ /about/ - More charts and other info.
+ /%participant_id/ - Allows individuals and groups to tell their story, connect accounts elsewhere, and manage their giving.
+ /%participant_id/funds/ - Allows users to manage &ldquo;funds.&rdquo; Think mutual funds; see this ticket for a description.
+ /communities/%community/ - Aggregates information about givers, receivers, and funds within a certain community. Community pages are described in this ticket.
+ /on/twitter/, etc. - Represent accounts on other services that haven&rsquo;t been connected to a Gittip account (example), or groups of accounts on other services (example).
+ That&rsquo;s what we are building, and I believe that Gittip has nothing but open road in front of it. From our charts you can see that we experienced strong early growth, and then hit a rough patch while I transitioned out of my full time job in order to focus on Gittip. Now, here in 2013, we are building a team and are starting to grow again. Our goal is to grow two orders of magnitude over the next 18 months, and to do that we need a strong product designer on board.
+ Do you want to join us? You can get in touch with me, Chad Whitacre, as whit537 on Dribbble and Twitter, by email at chad@zetaweb.com, or by phone at +1-412-925-4220. IRC is another great way to connect; we hang out in #gittip on Freenode.
+ Thank you, and I look forward to hearing from you! :^)
+ Chad Whitacre is the founder of Gittip." /><meta name="twitter:title" content="Design Gittip" /><meta name="twitter:url" content="http://blog.gittip.com/post/41348666944/design-gittip" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=41348666944&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=41348666944&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=41348666944&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/41348666944/design-gittip">Design Gittip</a></h1>
+                    
+                    
+                    <div class="meta">January 24, 2013, 3:08 am 
+                    (1 year ago) &ndash; <a href='http://blog.gittip.com/post/41348666944/design-gittip'>Permalink</a></div>
+                    
+                    
+                    <p><span>Design community, I need your help. There’s a stigma associated with </span><a href="https://www.gittip.com/">Gittip</a><span> that it’s only for open source programmers. To be sure, some of that comes from the name (which we </span><a href="https://github.com/zetaweb/www.gittip.com/issues/138">tried hard</a><span> to change, but which we just need to live with for now). My sense is that the bigger problem is that the visual design that Gittip launched with seven months ago is holding us back from being taken seriously by the design community and by design-conscious communities such as musicians, writers, and artists. This is a bummer because that’s exactly who we want Gittip to work for. I want to support my favorite musicians on Gittip.</span></p>
+<p>Within weeks of launching we started a <a href="https://github.com/zetaweb/www.gittip.com/issues/66">ticket</a> to “change the visual design of Gittip.” It proved to be a fairly popular ticket, and a month later we received a design contribution from <a href="https://twitter.com/damon_sf">Damon Chin</a> (an employee of Gittip’s payments partner, Balanced). This languished for want of an implementor until last week, when <a href="http://nicksergeant.com/">Nick Sergeant</a> stepped forward to convert Damon’s design to markup. That’s definitely going to move the needle for us, and I’m grateful to Damon and Nick for diving in. This post is about how to go even further.</p>
+<p>Three weeks ago I announced that <a href="http://blog.gittip.com/post/39687487576/gittip-is-hiring">Gittip is hiring</a>. This caused some controversy due to the fact that, as an open company, Gittip doesn’t compensate its employees, but the fact is that we now have a dozen people actively contributing to Gittip. This is fantastic! Our bottleneck, though, is front-end expertise.</p>
+<p>Nick’s sweet spot for us is going to be converting design files to markup. Damon’s contribution came through his employer, and, while I <a href="http://whit537.org/2012/12/why-i-love-balanced.html">love</a> Balanced, we need to not lean too heavily on them. Gittip needs to build its own team. Therefore, I’m looking for <strong>someone with a passion for web product design to join the Gittip team.</strong></p>
+<p>What is it we’re building?</p>
+<h4>Core Product</h4>
+<p>Here’s a high-level overview of Gittip as a product:</p>
+<ul><li><strong>Profiles. </strong>We enable individuals to tell a story about how they’re making the world better.</li>
+<li><strong>Giving.</strong> We enable individuals to participate in each other’s stories through long-term, no-strings-attached, financial gifts.</li>
+<li><strong>Communities.</strong> We enable communities to tell and sustain a collective story.</li>
+</ul><h4>Extension Points</h4>
+<p>Here are the ways Gittip interfaces with other sites:</p>
+<ul><li><strong>Connecting Accounts.</strong> We support connecting as many other services as possible to a Gittip profile. A few of these other services can also be used to authenticate with Gittip and/or move money into or out of Gittip.</li>
+<li><strong>Partnerships.</strong> We seek out partnerships with third parties to add Gittip links in their products. We practice engineering as marketing.</li>
+<li><strong>Browser Extension.</strong> We provide extensions for all major browsers, adding Gittip links on websites with whom we’re not yet partners.</li>
+<li><strong>Widgets.</strong> We provide ways for participants to embed Gittip functionality on other websites.</li>
+<li><strong>API.</strong> We provide APIs that enable third parties to build tools for participants to work with their data stored in Gittip.</li>
+</ul><div>
+<h4>Visual Design Requirements</h4>
+<p>Here are the visual design requirements for Gittip as I see them:</p>
+<ul><li><strong>Name:</strong> “Gittip” (not “GitTip”)</li>
+<li><strong>Motto:</strong> “Inspiring Generosity”</li>
+<li><strong>Logo:</strong> <img alt="image" src="http://media.tumblr.com/ac566e8621589d231c794020c7b53123/tumblr_inline_mh4b7bbEsY1rn81gb.png"/> (“Heart Coin”)</li>
+<li><strong>Colors:</strong> <img alt="image" src="http://media.tumblr.com/2d95cd6ee261fb7d72a98555b92049e7/tumblr_inline_mh4b84OI3O1rn81gb.png"/> (#614C3E) and <img alt="image" src="http://media.tumblr.com/135ee65a2f36d361d08b311a561d5dff/tumblr_inline_mh4b8fgua91rn81gb.png"/> (#2A8F79)</li>
+<li><strong>Typography</strong> is open game, but web fonts only (no typography via images).</li>
+<li><strong>Responsive</strong> design.</li>
+<li>We can use <strong>Bootstrap</strong> (or another framework) for laying out the grid and handling responsiveness, but &#8230;</li>
+<li>We need to have a <strong>fully customized</strong> look and feel, including forms.</li>
+<li>Products I admire greatly: <strong><a href="https://stripe.com/">Stripe</a></strong>, <strong><a href="https://www.airbnb.com/">Airbnb</a></strong>, <strong><a href="https://gumroad.com/">Gumroad</a></strong>.</li>
+</ul></div>
+<h4>Information Architecture</h4>
+<p>Below are the pages we have and need for Gittip.</p>
+<ul><li><strong>/</strong> - Homepage focuses on high-level aggregate data.</li>
+<li><strong>/about/</strong> - More charts and other info.</li>
+<li><strong>/%participant_id/</strong> - Allows individuals and groups to tell their story, connect accounts elsewhere, and manage their giving.</li>
+<li><strong>/%participant_id/funds/</strong> - Allows users to manage “funds.” Think mutual funds; see <a href="https://github.com/zetaweb/www.gittip.com/issues/449#issuecomment-12440694">this ticket</a> for a description.</li>
+<li><strong>/communities/%community/</strong> - Aggregates information about givers, receivers, and funds within a certain community. Community pages are described in <a href="https://github.com/zetaweb/www.gittip.com/issues/496">this ticket</a>.</li>
+<li><strong>/on/twitter/</strong>, etc. - Represent accounts on other services that haven’t been connected to a Gittip account (<a href="https://www.gittip.com/on/twitter/BarackObama/">example</a>), or <em>groups</em> of accounts on other services (<a href="https://www.gittip.com/on/github/zetaweb/">example</a>).</li>
+</ul><p>That’s what we are building, and I believe that Gittip has nothing but open road in front of it. From our <a href="https://www.gittip.com/about/charts.html">charts</a> you can see that we experienced strong early growth, and then hit a rough patch while I transitioned out of my full time job in order to focus on Gittip. Now, here in 2013, we are building a team and are starting to grow again. Our goal is to grow two orders of magnitude over the next 18 months, and to do that we need a strong product designer on board.</p>
+<p>Do you want to join us? You can get in touch with me, Chad Whitacre, as whit537 on <a href="http://dribbble.com/whit537">Dribbble</a> and <a href="https://twitter.com/whit537">Twitter</a>, by email at <a href="mailto:chad@zetaweb.com">chad@zetaweb.com</a>, or by phone at +1-412-925-4220. IRC is another great way to connect; we hang out in #gittip on Freenode.</p>
+<p>Thank you, and I look forward to hearing from you! :^)</p>
+<hr><p><em><a href="https://www.gittip.com/whit537/">Chad Whitacre</a> is the founder of <a href="https://www.gittip.com/">Gittip</a>.</em></p>
+                    
+                    
+                        <h2>2 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note reblog tumblelog_decause without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://decause.tumblr.com/" title="from decause import *"><img src="http://33.media.tumblr.com/avatar_3143cbe200a1_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://decause.tumblr.com/post/41400968264"><a rel="nofollow" href="http://decause.tumblr.com/" class="tumblelog" title="from decause import *">decause</a> reblogged this from <a rel="nofollow" href="http://blog.gittip.com/" class="source_tumblelog" title="Gittip Blog">gittip-blog</a></span><div class="clear"></div></li><li class="note like tumblelog_decause without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://decause.tumblr.com/" title="from decause import * " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_3143cbe200a1_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://decause.tumblr.com/" title="from decause import *" rel="nofollow">decause</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/41348666944"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/41348666944/design-gittip?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC80MTM0ODY2Njk0NFwvZGVzaWduLWdpdHRpcCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5In0=&U=MHLANEOGHJ&K=67d816d0c54bc4ff270880824097ef57335278b2bc3f6982c79e59027a1dbf1e&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F4'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC80MTM0ODY2Njk0NFwvZGVzaWduLWdpdHRpcCIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=MHLANEOGHJ&K=f4abf93ff4e0be440f1a0bb65d7a0278fb3f4f0736ea3fcf19fe9915038c8fcc&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F4"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNDEzNDg2NjY5NDRcL2Rlc2lnbi1naXR0aXAiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI0MTM0ODY2Njk0NCIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dfQ==&U=DJJALCCFJB&K=a802217792f1a1628fbb40c0277f73bdad1f0d027de7bb909b852d342ae7a066&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F4'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331715&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNDEzNDg2NjY5NDRcL2Rlc2lnbi1naXR0aXAiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiI0MTM0ODY2Njk0NCIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=DJJALCCFJB&K=6811405b67328fb6ce04dbb4326102d622e77a6d848efcf040a923ca04ed77ac&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F4"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F41348666944%2Fdesign-gittip&amp;pid=41348666944&amp;rk=ii44duW6&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F41348666944%2Fdesign-gittip&amp;pid=41348666944&amp;rk=ii44duW6&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Gittip Blog" /><meta property="og:url" content="http://blog.gittip.com/?og=1" /><meta property="og:description" content="" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://38.media.tumblr.com/avatar_6fc1e89e5818_128.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="gittip-blog" /><meta name="twitter:description" content=" " /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                    <a href='/page/4'><button>&#171; Older</button></a>
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+                    <a href='/page/2'><button>Newer &#187;</button></a>
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson">Call with David Heinemeier Hansson</a></h1>
+                    
+                    
+                    <div class="meta">December 3, 2013, 4:34 pm 
+                    (8 months ago) &ndash; <a href='http://blog.gittip.com/post/68909962126/call-with-david-heinemeier-hansson'>Permalink</a></div>
+                    
+                    
+                    <p>Gittip founder Chad Whitacre participated in an open call with 37signals partner and Ruby on Rails founder David Heinemeier Hansson today. The call came about after David wrote a blog post three weeks ago, &#8220;<a href="http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html">The perils of mixing open source and money</a>.&#8221; When he was subsequently <a href="https://twitter.com/Bruce_Adams/status/400381703648473088">introduced</a> to Gittip, it kicked off a lengthy Twitter conversation that resulted in a <a href="https://medium.com/building-gittip/2c621dbd7541">response</a> from Chad, followed by an <a href="https://twitter.com/dhh/status/400760704803672064">invitation</a> from David &#8220;to have a longer discussion about this in person at some point.&#8221; Thomas Fuchs <a href="https://twitter.com/thomasfuchs/status/403880839995740161">kicked off</a> another round of conversation 10 days ago, followed by a <a href="https://twitter.com/whit537/status/407627022685319168">third round</a> yesterday.</p>
+<p>The basic topic of the conversation is how crowdfunding affects open-source. Open-source (like <a href="https://medium.com/building-gittip/7c266abbe54">journalism</a>) has achieved a delicate balance, where the parties involved know what the rules are, where the money stops and the open-source love (or the journalistic integrity) begins. This boundary is messy at times, but it&#8217;s been more or less thoroughly explored and is well-understood by those involved. Crowdfunding upsets this stasis. Does crowdfunding corrupt open-source by introducing extrinsic motivation? Does it crowd out the intrinsic motivation that lies at the heart of open-source?</p>
+<p>Here is the video of the call:</p>
+<p><iframe frameborder="0" height="315" src="//www.youtube.com/embed/p1E-svVd9Xc" width="560"></iframe></p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/64956662443/help-hazel-fight-trafficking">Help Hazel Fight Trafficking</a></h1>
+                    
+                    
+                    <div class="meta">October 24, 2013, 10:33 am 
+                    (10 months ago) &ndash; <a href='http://blog.gittip.com/post/64956662443/help-hazel-fight-trafficking'>Permalink</a></div>
+                    
+                    
+                    <p>We received the following in email from a friend of Gittip:</p>
+<blockquote>
+<p>I wanted to let you know about a very special account now on Gittip: <a href="https://www.gittip.com/Hazel_Mae12/">https://www.gittip.com/Hazel_Mae12/</a>. Hazel is our god-daughter. After having been trafficked as a minor by a violent man, beaten, held against her will, she found the courage in her heart and the allies (from the U.S. Attorney&#8217;s office) to escape and stand up to him in court and see him put in jail for 30 years. California Rep. Juan Vargas has since introduced the Child Protection Act of 2013, named &#8220;<a href="http://beta.congress.gov/bill/113th/house-bill/1690">Hazel&#8217;s Law</a>" after her, which would ensure that traffickers do not receive lighter sentences merely by claiming they did not know the victim was a minor.</p>
+<p><img src="http://media.tumblr.com/058b71fdb80e69ca1c65c9b758b674f3/tumblr_inline_mvdybe1Jnf1rn81gb.jpg"/></p>
+
+<p>Now 21 years old, and still recuperating from her years of trauma, she is taking her story to those who will listen, speaking to lawyers, social workers, law enforcement, schoolteachers, and governmental bodies about ways they can recognize girls in sex slavery and assist these victims in escaping &#8220;the life&#8221;, rather than blaming them as the problem. She receives little pay for this, so I have encouraged her to open a Gittip account where those who hear her story (and might not otherwise have a vehicle for assisting her and her work) can easily help her on a continuing basis to fight the good fight.</p>
+<p>Funding open source work is important and rewarding for givers and receivers. But Hazel&#8217;s work is on a level of importance above that, in my opinion. If part of your vision for Gittip is to support communities outside the software industry, I ask that you consider promoting Hazel&#8217;s account as an example of what we can do together when we look to ourselves for support, rather than corporations and governments.</p>
+</blockquote>
+<p>We couldn&#8217;t be more honored to have Hazel Mae on Gittip. Please consider <a href="https://www.gittip.com/Hazel_Mae12/">supporting her work</a>.</p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/64410217673/the-community-is-my-cofounder">The Community is My Cofounder</a></h1>
+                    
+                    
+                    <div class="meta">October 18, 2013, 3:56 pm 
+                    (10 months ago) &ndash; <a href='http://blog.gittip.com/post/64410217673/the-community-is-my-cofounder'>Permalink</a></div>
+                    
+                    
+                    <p>I&#8217;m applying to Y Combinator with Gittip. One of the main pieces of feedback I&#8217;ve gotten on my <a href="https://gist.github.com/whit537/6723103">application</a> is that I should find another founder. As Warren Konkel of Bountysource advised:</p>
+<blockquote>
+<p>Don&#8217;t think of it as &#8220;I need a cofounder to get to the YC interview,&#8221; and instead, &#8220;Gittip will be a much stronger company if i have a cofounder, and YC invests in strong companies.&#8221;</p>
+</blockquote>
+<p>I&#8217;m empathetic to this. I&#8217;ve had two past experiences with business partners. The first worked out great: we had a good run, and parted amicably. The second time I ruined an old friendship, so I understand both the benefits and the risks of having a cofounder.</p>
+<p>As the YC application deadline approaches, I&#8217;ve been <a href="https://github.com/gittip/www.gittip.com/issues/1603">exploring</a> the possibility of adding a cofounder to my application. For better or for worse, no slam-dunk choice has emerged from amongst the Gittip community. Therefore, I&#8217;ve decided to move forward with the YC application on the basis that the community as a whole is my cofounder. For most companies, this would be bullshit. For Gittip, I propose that it&#8217;s actually true.</p>
+<p>Here are some of the ways that the Gittip community fulfills the cofounder role:</p>
+<ol><li><strong>The community boosts my morale.</strong> Of course there&#8217;s the collaboration in IRC and GitHub, and the financial generosity on Gittip itself. But I also get to witness inspiring acts such as one contributor <a href="https://botbot.me/freenode/gittip/msg/6925801/">mailing a laptop</a> to another contributor.</li>
+<li><strong>The community corrects my bad decisions.</strong> The most vehement example of this was the <a href="https://botbot.me/freenode/gittip/msg/6118740/">pushback</a> I got on a dumb idea I called &#8220;issue tracker zero&#8221; (don&#8217;t ask!).</li>
+<li><strong>The community feels a real sense of ownership.</strong> Our issue tracker is full of epic tickets with impassioned (yet respectful) debates, involving scores of participants, e.g.: <a class="issue-link" href="https://github.com/gittip/www.gittip.com/issues/5" title="allow for one-off tips">#5</a> <a class="issue-link" href="https://github.com/gittip/www.gittip.com/issues/14" title="pay in with bitcoin">#14</a> <a class="issue-link" href="https://github.com/gittip/www.gittip.com/issues/28" title="switch to opt-in">#28</a> <a class="issue-link" href="https://github.com/gittip/www.gittip.com/issues/126" title="find a solution for withdrawals outside the US">#126</a> <a class="issue-link" href="https://github.com/gittip/www.gittip.com/issues/138" title="change the  name from gittip to something else">#138</a>. I mean, heck, the <a href="https://github.com/gittip/www.gittip.com/issues/1404">YC application ticket</a> itself has two dozen participants.</li>
+<li><strong>The community gets work done.</strong> We haven&#8217;t yet found someone able to work full-time on Gittip with me, but between everyone else on the team, we have roughly one full-time equivalent. That&#8217;s acceptable while we&#8217;re bootstrapping.</li>
+<li><strong>If I were to disappear, new leadership would emerge from the community.</strong> Pretty much the only piece of information the community doesn&#8217;t have that it would need is the password for DNS. Even there, that&#8217;s not an insurmountable problem. Gittip wouldn&#8217;t be the same without me, but it wouldn&#8217;t simply die.</li>
+</ol><p>Closed companies need cofounders because they&#8217;re closed. Due to variability pooling, two or three people make better decisions and last longer than one person acting alone.</p>
+<p>But Gittip is an <a href="http://blog.gittip.com/post/26350459746/the-first-open-company">open company</a>, and I&#8217;m emphatically <em>not</em> acting alone. The same is true of Gittip&#8217;s open source project cousins: Who cofounded Linux? Or Python? Or Perl? Or PHP? It&#8217;s certainly possible for open entities to have multiple cofounders (FreeBSD, Apache, Subversion, Wikipedia). But it&#8217;s also genuinely possible for the community to be the cofounder, and—whether YC is ready to hear this or not—that is the case with Gittip.</p>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/61497419514/drupal-co-maintainer-funded-at-475-wk">Drupal Co-maintainer Funded at $475/wk</a></h1>
+                    
+                    
+                    <div class="meta">September 17, 2013, 9:50 am 
+                    (11 months ago) &ndash; <a href='http://blog.gittip.com/post/61497419514/drupal-co-maintainer-funded-at-475-wk'>Permalink</a></div>
+                    
+                    
+                    <p>While Gittip does not require you to have or meet goals to receive funding, some are defining their dreams and expectations within Gittip and finding success. Recently, the Drupal community banded together to help <a href="https://www.gittip.com/alexpott/">Alex Pott</a> meet a fundraising goal.</p>
+<p>Beyond the legal limits, there aren’t any given rules for how to use Gittip: it is a tool. Gittip’s value as a resource is most often visible in direct correlation to the effort and enthusiasm poured into it. It was that energy that allowed Drupal to discover a successful formula for using Gittip: one extremely dedicated worker + a group of committed supporters + Gittip = a reward for a leap of faith.</p>
+<p>Six months ago Alex Pott quit his job and began working full time in a volunteer capacity on Drupal 8. A month later he was invited by Drupal co-founder and lead developer <a href="http://buytaert.net/alex-pott">Dries Buytaert</a> to become one of Drupal 8’s co-maintainers as they gear up for release. He joined Dries along with the other Drupal 8 core committers Angie Byron (webchick), Nathaniel Catchpole (catch), and Jennifer Hodgdon.</p>
+<p>Alex has a history working in Drupal, but he only “met” Gittip a little over a month ago. It seems that the rally to help one of their maintainers meet a goal boosted the entire community. Though the <a href="https://www.gittip.com/for/drupal/">Drupal Gittip community</a> was experiencing steady but modest growth, it is now almost four times larger than it was when Alex announced his Gittip goal.</p>
+<p>In just three to four weeks Alex Pott set and met a goal using Gittip with the help of Drupal supporters. Even investing all the time and money he could, Alex calculated he would need to cover $475 a week. With a little encouragement from others he decided to try Gittip as a means to raise what he needed. Through the following four weeks Drupal supporters not only flocked to Gittip to contribute to Alex Pott’s financial goal, but they spread the word far and wide. The result: Goal Reached. Alex has taken to twitter to thank all the donors and supporters, as well as the Gittip team.</p>
+<p>Alex, we thank you. You took a leap of faith with Gittip and with the help of the entire Drupal community made us all a success.</p>
+<p>In the wake of hitting $475 weekly on Gittip, Alex has expressed the desire to support another Drupal developer with a funding goal. Keep the momentum going!</p>
+<blockquote class="twitter-tweet">
+<p>Wow just reached my <a href="https://twitter.com/Gittip">@gittip</a> goal of $475! Let&#8217;s see if we can get <a href="https://twitter.com/patrickd_drupal">@patrickd_drupal</a> his $200 goal because simplytest.me is awesome!</p>
+<div>— Alex Pott (@alexpott)</div>
+<div><a href="https://twitter.com/alexpott/statuses/370840615552307201">August 23, 2013</a></div>
+</blockquote>
+<script charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+                    
+                    
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields">Gittip Has Acquired Shields</a></h1>
+                    
+                    
+                    <div class="meta">August 26, 2013, 10:30 am 
+                    (1 year ago) &ndash; <a href='http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> has acquired <a href="https://github.com/gittip/shields.io">the Shields project</a>.</p>
+<p>Gittip is a platform for giving money every week to awesome people and teams. We launched in June, 2012, and we currently have 1,600 weekly active users moving $5,300 per week.</p>
+<p>Shields is a great example of an awesome team that should be able to use Gittip for its funding. Having Shields in-house enables Gittip to discover the pain points of, <span>and drive best practices for,</span><span> funding a team on Gittip. (Gittip itself is also funded on Gittip, but that&#8217;s a special case.)</span></p>
+<p>What is Shields? Shields is an effort to standardize the metadata images that have become common on open-source READMEs over the past couple years. Here is an example from the <a href="https://github.com/rails/rails#code-status">Ruby on Rails README</a>:</p>
+<blockquote>
+<p><img alt="image" src="http://media.tumblr.com/24c2b64f79dd934f9a72842f852ca1c5/tumblr_inline_ms1v1eDN5a1qz4rgp.png"/></p>
+</blockquote>
+<p><a href="https://www.gittip.com/olivierlacan/">Olivier Lacan</a><span> started the Shields project in January of 2013, when he grew frustrated with the inconsistency across the status image implementations of various services. </span><span>Olivier saw that a professional and consistent design across all of these services would be in the best interest of open-source developers everywhere, so he opened Photoshop and began building PNG images. Joined by </span><a href="https://www.gittip.com/ackerdev/">Nicholas Acker</a><span> and </span><a href="https://github.com/gittip/shields.io/graphs/contributors">others</a><span>, PNGs from the Shields project have since been adopted by </span><a href="http://about.travis-ci.org/docs/user/status-images/">Travis CI</a><span>, </span><a href="https://codeclimate.com/changelog/510d4fde56b102523a0004bf">Code Climate</a><span>, </span><a href="http://blog.tech-angels.com/post/43141047457/gemnasium-v3-aka-gemnasium">Gemnasium</a><span>, </span><a href="https://twitter.com/Gemfury/status/300709469137010688">Gemfury</a><span>, and </span><a href="https://coveralls.io/repos/hannesg/uri_template/badge.png?branch=master">Coveralls</a><span>.</span></p>
+<p>Gittip founder Chad Whitacre met Olivier during Heroku&#8217;s <a href="https://waza.heroku.com/">Waza</a> conference in February, 2013, and eventually got involved with the Shields project&#8217;s <a href="https://github.com/gittip/shields.io/issues/15">effort</a> to build Shields.io, a high-performance, on-demand web service for dynamic metadata images. Shields has clearly demonstrated demand with its static PNGs. Shields.io will make it easy to offer Shields to many more project metadata providers, and will remove the burden of hosting status images from participating providers.</p>
+<p>Olivier will continue to manage the Shields.io project within Gittip. The <a href="https://github.com/gittip/shields.io">repo</a> has been moved from Olivier&#8217;s GitHub account to the Gittip organization, and has been renamed from &#8220;shields&#8221; to &#8220;shields.io&#8221; to indicate the emphasis on the web service going forward. We&#8217;ve set up a <a href="https://twitter.com/Shields_io">Shields_io</a> Twitter account and a <a href="https://www.gittip.com/Shields.io/">Shields.io</a> team on Gittip.</p>
+<p>True to our shared love of openness, the agreement for Gittip to acquire Shields was reached over the course of two live-broadcast video conferences (<a href="http://www.youtube.com/watch?v=DW_kDoeBEC0">one</a>, <a href="http://www.youtube.com/watch?v=CZ0lgVWGSEs">two</a>), and was submitted for final approval to our respective communities through our issue trackers (<a href="https://github.com/gittip/shields.io/issues/43">one</a>, <a href="https://github.com/gittip/www.gittip.com/issues/1307">two</a>). Here&#8217;s a screenshot of Chad and Olivier <a href="http://www.youtube.com/watch?v=CZ0lgVWGSEs#t=28m01s">finalizing the deal</a>:</p>
+<p><img alt="image" src="http://media.tumblr.com/cd1ed13bf58d335f4a28cbed0b3a6cc5/tumblr_inline_ms55tvIsqO1qz4rgp.png"/></p>
+<p><span>As Olivier </span><a href="https://github.com/gittip/www.gittip.com/issues/1307#issuecomment-23113774">says</a><span>, &#8220;I believe making Shields a part of Gittip will bring about even more amazing contributions to this project.&#8221; </span><span>We&#8217;re delighted to welcome Shields to Gittip, and we look forward to launching Shields.io and providing even more useful project metadata to the open-source community!</span></p>
+<hr><p><em>Visit <a href="https://github.com/gittip/shields.io">the repo</a> to help build Shields.io.</em></p>
+<p><em>Use Gittip to help <a href="https://www.gittip.com/Shields.io/">fund the team</a> behind Shields.io.</em></p>
+                    
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/page/3?route=%2Fpage%2F%3Apage'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331711&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wYWdlXC8zIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3BhZ2VcLzpwYWdlIn0=&U=FFGGGBIENJ&K=26691524890f6becf1e93847da46f46fb72405f29872ded9309b128cb994dd01&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F2'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331711&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wYWdlXC8zIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3BhZ2VcLzpwYWdlIiwibm9zY3JpcHQiOjF9&U=FFGGGBIENJ&K=baba465780dca6715013243dffc2702df49161ed721874374f722344e32db2fc&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F2"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331711&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcGFnZVwvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2ODkwOTk2MjEyNiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2NDk1NjY2MjQ0MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2NDQxMDIxNzY3MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2MTQ5NzQxOTUxNCIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI1OTM5NjQ1ODY3NSIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dfQ==&U=NNNNFFIKOG&K=e808cb36c0c83ac4d01eb0689029674d17cc5fb91bd8ea49c0b81b631888691a&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F2'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331711&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcGFnZVwvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wYWdlXC86cGFnZSIsInBvc3RzIjpbeyJwb3N0aWQiOiI2ODkwOTk2MjEyNiIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2NDk1NjY2MjQ0MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2NDQxMDIxNzY3MyIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI2MTQ5NzQxOTUxNCIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM30seyJwb3N0aWQiOiI1OTM5NjQ1ODY3NSIsImJsb2dpZCI6IjU5NjMxODY5Iiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=NNNNFFIKOG&K=10e989efea33dcb23d5a0094477337cff5263b337583952a596578a094c73cba&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F2"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/page/:page',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 3;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

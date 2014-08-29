@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Gittip Has Acquired Shields - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=59396458675" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Gittip Has Acquired Shields" /><meta property="og:url" content="http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields" /><meta property="og:description" content="Gittip has acquired the Shields project.
+Gittip is a platform for giving money every week to awesome people and teams. We launched in June, 2012, and we currently have 1,600 weekly active users moving..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://media.tumblr.com/24c2b64f79dd934f9a72842f852ca1c5/tumblr_inline_ms1v1eDN5a1qz4rgp.png" /><meta property="og:image" content="http://media.tumblr.com/cd1ed13bf58d335f4a28cbed0b3a6cc5/tumblr_inline_ms55tvIsqO1qz4rgp.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=59396458675" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=59396458675" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Gittip has acquired the Shields project.
+ Gittip is a platform for giving money every week to awesome people and teams. We launched in June, 2012, and we currently have 1,600 weekly active users moving &#36;5,300 per week.
+ Shields is a great example of an awesome team that should be able to use Gittip for its funding. Having Shields in-house enables Gittip to discover the pain points of,&nbsp;and drive best practices for,&nbsp;funding a team on Gittip. (Gittip itself is also funded on Gittip, but that&amp;#8217;s a special case.)
+ What is Shields? Shields is an effort to standardize the metadata images that have become common on open-source READMEs over the past couple years. Here is an example from the Ruby on Rails README:
+
+ 
+
+ Olivier Lacan started the Shields project in January of 2013, when he grew frustrated with the inconsistency across the status image implementations of various services.&nbsp;Olivier saw that a professional and consistent design across all of these services would be in the best interest of open-source developers everywhere, so he opened Photoshop and began building PNG images. Joined by Nicholas Acker and others, PNGs from the Shields project have since been adopted by Travis CI, Code Climate, Gemnasium, Gemfury, and Coveralls.
+ Gittip founder Chad Whitacre met Olivier during Heroku&amp;#8217;s Waza conference in February, 2013, and eventually got involved with the Shields project&amp;#8217;s effort to build Shields.io, a high-performance, on-demand web service for dynamic metadata images. Shields has clearly demonstrated demand with its static PNGs. Shields.io will make it easy to offer Shields to many more project metadata providers, and will remove the burden of hosting status images from participating providers.
+ Olivier will continue to manage the Shields.io project within Gittip. The repo has been moved from Olivier&amp;#8217;s GitHub account to the Gittip organization, and has been renamed from &amp;#8220;shields&amp;#8221; to &amp;#8220;shields.io&amp;#8221; to indicate the emphasis on the web service going forward. We&amp;#8217;ve set up a Shields_io Twitter account and a&nbsp;Shields.io team on Gittip.
+ True to our shared love of openness, the agreement for Gittip to acquire Shields was reached over the course of two live-broadcast video conferences (one, two), and was submitted for final approval to our respective communities through our issue trackers (one, two). Here&amp;#8217;s a screenshot of Chad and Olivier finalizing the deal:
+ 
+ As Olivier says, &amp;#8220;I believe making Shields a part of Gittip will bring about even more amazing contributions to this project.&amp;#8221;&nbsp;We&amp;#8217;re delighted to welcome Shields to Gittip, and we look forward to launching Shields.io and providing even more useful project metadata to the open-source community!
+ Visit the repo to help build Shields.io.
+ Use Gittip to help fund the team behind Shields.io." /><meta name="twitter:title" content="Gittip Has Acquired Shields" /><meta name="twitter:url" content="http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=59396458675&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=59396458675&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=59396458675&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields">Gittip Has Acquired Shields</a></h1>
+                    
+                    
+                    <div class="meta">August 26, 2013, 10:30 am 
+                    (1 year ago) &ndash; <a href='http://blog.gittip.com/post/59396458675/gittip-has-acquired-shields'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> has acquired <a href="https://github.com/gittip/shields.io">the Shields project</a>.</p>
+<p>Gittip is a platform for giving money every week to awesome people and teams. We launched in June, 2012, and we currently have 1,600 weekly active users moving $5,300 per week.</p>
+<p>Shields is a great example of an awesome team that should be able to use Gittip for its funding. Having Shields in-house enables Gittip to discover the pain points of, <span>and drive best practices for,</span><span> funding a team on Gittip. (Gittip itself is also funded on Gittip, but that&#8217;s a special case.)</span></p>
+<p>What is Shields? Shields is an effort to standardize the metadata images that have become common on open-source READMEs over the past couple years. Here is an example from the <a href="https://github.com/rails/rails#code-status">Ruby on Rails README</a>:</p>
+<blockquote>
+<p><img alt="image" src="http://media.tumblr.com/24c2b64f79dd934f9a72842f852ca1c5/tumblr_inline_ms1v1eDN5a1qz4rgp.png"/></p>
+</blockquote>
+<p><a href="https://www.gittip.com/olivierlacan/">Olivier Lacan</a><span> started the Shields project in January of 2013, when he grew frustrated with the inconsistency across the status image implementations of various services. </span><span>Olivier saw that a professional and consistent design across all of these services would be in the best interest of open-source developers everywhere, so he opened Photoshop and began building PNG images. Joined by </span><a href="https://www.gittip.com/ackerdev/">Nicholas Acker</a><span> and </span><a href="https://github.com/gittip/shields.io/graphs/contributors">others</a><span>, PNGs from the Shields project have since been adopted by </span><a href="http://about.travis-ci.org/docs/user/status-images/">Travis CI</a><span>, </span><a href="https://codeclimate.com/changelog/510d4fde56b102523a0004bf">Code Climate</a><span>, </span><a href="http://blog.tech-angels.com/post/43141047457/gemnasium-v3-aka-gemnasium">Gemnasium</a><span>, </span><a href="https://twitter.com/Gemfury/status/300709469137010688">Gemfury</a><span>, and </span><a href="https://coveralls.io/repos/hannesg/uri_template/badge.png?branch=master">Coveralls</a><span>.</span></p>
+<p>Gittip founder Chad Whitacre met Olivier during Heroku&#8217;s <a href="https://waza.heroku.com/">Waza</a> conference in February, 2013, and eventually got involved with the Shields project&#8217;s <a href="https://github.com/gittip/shields.io/issues/15">effort</a> to build Shields.io, a high-performance, on-demand web service for dynamic metadata images. Shields has clearly demonstrated demand with its static PNGs. Shields.io will make it easy to offer Shields to many more project metadata providers, and will remove the burden of hosting status images from participating providers.</p>
+<p>Olivier will continue to manage the Shields.io project within Gittip. The <a href="https://github.com/gittip/shields.io">repo</a> has been moved from Olivier&#8217;s GitHub account to the Gittip organization, and has been renamed from &#8220;shields&#8221; to &#8220;shields.io&#8221; to indicate the emphasis on the web service going forward. We&#8217;ve set up a <a href="https://twitter.com/Shields_io">Shields_io</a> Twitter account and a <a href="https://www.gittip.com/Shields.io/">Shields.io</a> team on Gittip.</p>
+<p>True to our shared love of openness, the agreement for Gittip to acquire Shields was reached over the course of two live-broadcast video conferences (<a href="http://www.youtube.com/watch?v=DW_kDoeBEC0">one</a>, <a href="http://www.youtube.com/watch?v=CZ0lgVWGSEs">two</a>), and was submitted for final approval to our respective communities through our issue trackers (<a href="https://github.com/gittip/shields.io/issues/43">one</a>, <a href="https://github.com/gittip/www.gittip.com/issues/1307">two</a>). Here&#8217;s a screenshot of Chad and Olivier <a href="http://www.youtube.com/watch?v=CZ0lgVWGSEs#t=28m01s">finalizing the deal</a>:</p>
+<p><img alt="image" src="http://media.tumblr.com/cd1ed13bf58d335f4a28cbed0b3a6cc5/tumblr_inline_ms55tvIsqO1qz4rgp.png"/></p>
+<p><span>As Olivier </span><a href="https://github.com/gittip/www.gittip.com/issues/1307#issuecomment-23113774">says</a><span>, &#8220;I believe making Shields a part of Gittip will bring about even more amazing contributions to this project.&#8221; </span><span>We&#8217;re delighted to welcome Shields to Gittip, and we look forward to launching Shields.io and providing even more useful project metadata to the open-source community!</span></p>
+<hr><p><em>Visit <a href="https://github.com/gittip/shields.io">the repo</a> to help build Shields.io.</em></p>
+<p><em>Use Gittip to help <a href="https://www.gittip.com/Shields.io/">fund the team</a> behind Shields.io.</em></p>
+                    
+                    
+                        <h2>2 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note like tumblelog_nancym without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://nancym.tumblr.com/" title="NM&#039;s Tumblelog " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_3d75c57cf6f4_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://nancym.tumblr.com/" title="NM&#039;s Tumblelog" rel="nofollow">nancym</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_elliottcable without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://elliottcable.tumblr.com/" title="i don&#039;t even use tumblr " rel="nofollow"><img src="http://37.media.tumblr.com/avatar_026ba4650acf_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://elliottcable.tumblr.com/" title="i don&#039;t even use tumblr" rel="nofollow">elliottcable</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_dbness without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://vanessahurst.com/" title="Vanessa Hurst " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_f6f244845a16_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://vanessahurst.com/" title="Vanessa Hurst" rel="nofollow">dbness</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/59396458675"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/59396458675/gittip-has-acquired-shields?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331716&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC81OTM5NjQ1ODY3NVwvZ2l0dGlwLWhhcy1hY3F1aXJlZC1zaGllbGRzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkifQ==&U=FOMKNJMLMP&K=af814b40f2fef9ccaa894ec83a27c3ac1846e89322060d6f397d7fa1290ccbbd&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331716&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC81OTM5NjQ1ODY3NVwvZ2l0dGlwLWhhcy1hY3F1aXJlZC1zaGllbGRzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJub3NjcmlwdCI6MX0=&U=FOMKNJMLMP&K=83a2971bac87aa500d291a0b96e025f1b6ac77a85cbb6bf0bbbf9b6929ec4199&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3"></noscript><script>
+        (function (w,d) { 
+            'use strict'; 
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };           
+            var a = function () { 
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0]; 
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.min.js?_v=c12dc6d1225974846ed59abb54fe5010';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a); 
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331716&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNTkzOTY0NTg2NzVcL2dpdHRpcC1oYXMtYWNxdWlyZWQtc2hpZWxkcyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjU5Mzk2NDU4Njc1IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV19&U=BDCOBMGCMP&K=e5bc1999a114cf1b89509c2f0d2fe6ede1b4c7e2552250cd6d2d1c87887956e2&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331716&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvNTkzOTY0NTg2NzVcL2dpdHRpcC1oYXMtYWNxdWlyZWQtc2hpZWxkcyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjU5Mzk2NDU4Njc1IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=BDCOBMGCMP&K=acf301b2fa588cf52c76aadb1d48fecf4c2476f3000d33501a8c04fa7062a137&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F3"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F59396458675%2Fgittip-has-acquired-shields&amp;pid=59396458675&amp;rk=IQDKHyGG&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F59396458675%2Fgittip-has-acquired-shields&amp;pid=59396458675&amp;rk=IQDKHyGG&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

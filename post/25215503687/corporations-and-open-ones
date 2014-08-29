@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Corporations, and Open Ones - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=25215503687" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Corporations, and Open Ones" /><meta property="og:url" content="http://blog.gittip.com/post/25215503687/corporations-and-open-ones" /><meta property="og:description" content="There are some groups of humans doing absolutely fantastic work for the rest of us these days. Here are a few that I greatly appreciate:
+&bull; GitHub&mdash;Takes open source to the next level. Hopefully it can..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=25215503687" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=25215503687" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="There are some groups of humans doing absolutely fantastic work for the rest of us these days. Here are a few that I greatly appreciate:
+ GitHub&amp;#8212;Takes open source to the next level. Hopefully it can spill over into the rest of culture.
+ Heroku&amp;#8212;The base platform as a service is slick enough, the Postgres service really puts it over the top.
+ Google&amp;#8212;Search, natch. But also GMail, and lately Analytics, especially real-time&amp;#8212;what a thrill to watch the current user count climb!
+ Stripe, Braintree, Dwolla&amp;#8212;Moving money is waaaay easier than it was 10 years ago.
+ Twitter&amp;#8212;They are providing a seamless fabric of communication with the people I want to work together with right now.
+ Tumblr&amp;#8212;My blogging problem is solved.
+ IWantMyName&amp;#8212;Straightforward domain registration without sex marketing.&nbsp;Finally.
+ Apple&amp;#8212;Their hardware and OS is so good that it took me a week to remember I was using it and realize that they belonged on this list.
+ In launching Gittip I am absolutely indebted to these corporations. I could never do what I&amp;#8217;m doing without their products.&nbsp;And yet I would like to call attention to the fact that these entities are indeed comprised of humans. The notion of a &amp;#8220;corporation&amp;#8221; is a legal fiction, an abstraction. A specific human is responsible for the way issues are cross-linked in GitHub. Another specific human is responsible for the slide-out transition on the Tumblr HTML theme&nbsp;editor.
+ The easier it is to identify these specific humans, the better. Why? Because praise and blame go together. It&amp;#8217;s a problem right now that humans can hide behind corporate abstractions to perpetrate evil and banality. &amp;#8220;I&amp;#8217;m just doing my job. I have to feed my family.&amp;#8221; Taming corporations means holding specific humans responsible, and not just top-level executives and scapegoats. The more open our corporations, the better.
+ Tim Leberecht writes about the &amp;#8220;humanist business.&amp;#8221; I want to think in terms of the open corporation. Tim&amp;#8217;s examples all enroll the business entity as the subject. Amex does this thing right. Patagonia does the other. In the humanist business, the group is still primary, though it strives to do right by the individual. I want to privilege the individual, if only by a hair. I want open corporations, open so you can see the people inside, praise each one when they do right, and call them out when they do wrong. It&amp;#8217;s a subtle but significant difference.
+ Legally speaking, Gittip may shake out as a cooperative or a corporation, it&amp;#8217;s too early to tell. But I promise you this: it will continue to be as open as possible. Gittip development happens&nbsp;in the open. Gittip&amp;#8217;s finances will be in the open. And the specific humans contributing to Gittip will do so in the open, each personally responsible for their contributions." /><meta name="twitter:title" content="Corporations, and Open Ones" /><meta name="twitter:url" content="http://blog.gittip.com/post/25215503687/corporations-and-open-ones" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=25215503687&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=25215503687&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=25215503687&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/25215503687/corporations-and-open-ones">Corporations, and Open Ones</a></h1>
+                    
+                    
+                    <div class="meta">June 16, 2012, 4:09 am 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/25215503687/corporations-and-open-ones'>Permalink</a></div>
+                    
+                    
+                    <p>There are some groups of humans doing absolutely fantastic work for the rest of us these days. Here are a few that I greatly appreciate:</p>
+<ul><li><strong><a href="https://github.com/">GitHub</a></strong>&#8212;Takes open source to the next level. Hopefully it can spill over into the rest of culture.</li>
+<li><strong><a href="http://www.heroku.com/">Heroku</a></strong>&#8212;The base platform as a service is slick enough, the Postgres service really puts it over the top.</li>
+<li><strong><a href="http://www.google.com/">Google</a></strong>&#8212;Search, natch. But also GMail, and lately Analytics, especially real-time&#8212;what a thrill to watch the current user count climb!</li>
+<li><strong><a href="https://stripe.com/">Stripe</a>, <a href="https://www.braintreepayments.com/">Braintree</a>, <a href="https://dwolla.com/">Dwolla</a></strong>&#8212;Moving money is waaaay easier than it was 10 years ago.</li>
+<li><strong><a href="https://twitter.com/">Twitter</a></strong>&#8212;They are providing a seamless fabric of communication with the people I want to work together with right now.</li>
+<li><strong><a href="http://www.tumblr.com/">Tumblr</a></strong>&#8212;My blogging problem is solved.</li>
+<li><strong><a href="http://iwantmyname.com/">IWantMyName</a></strong>&#8212;Straightforward domain registration without sex marketing. Finally.</li>
+<li><strong><a href="http://www.apple.com/">Apple</a></strong>&#8212;Their hardware and OS is so good that it took me a week to remember I was using it and realize that they belonged on this list.</li>
+</ul><p>In launching <a href="https://www.gittip.com/">Gittip</a> I am absolutely indebted to these corporations. I could never do what I&#8217;m doing without their products. And yet I would like to call attention to the fact that these entities are indeed comprised of humans. The notion of a &#8220;corporation&#8221; is a legal fiction, an abstraction. A specific human is responsible for the way issues are cross-linked in GitHub. Another specific human is responsible for the slide-out transition on the Tumblr HTML theme editor.</p>
+<p>The easier it is to identify these specific humans, the better. Why? Because praise and blame go together. It&#8217;s a problem right now that humans can hide behind corporate abstractions to perpetrate evil and banality. &#8220;I&#8217;m just doing my job. I have to feed my family.&#8221; Taming corporations means holding specific humans responsible, and not just top-level executives and scapegoats. The more open our corporations, the better.</p>
+<p>Tim Leberecht writes about the &#8220;<a href="http://www.fastcodesign.com/1669988/5-keys-to-building-a-business-that-doesnt-bury-the-humans-at-its-core">humanist business</a>.&#8221; I want to think in terms of the <em>open corporation</em>. Tim&#8217;s examples all enroll the business entity as the subject. Amex does this thing right. Patagonia does the other. In the humanist business, the group is still primary, though it strives to do right by the individual. I want to privilege the individual, if only by a hair. I want open corporations, open so you can see the people inside, praise each one when they do right, and call them out when they do wrong. It&#8217;s a subtle but significant difference.</p>
+<p>Legally speaking, Gittip may shake out as a cooperative or a corporation, it&#8217;s too early to tell. But I promise you this: it will continue to be as open as possible. Gittip development happens <a href="https://github.com/whit537/www.gittip.com">in the open</a>. Gittip&#8217;s finances will be in the open. And the specific humans contributing to Gittip will do so in the open, each personally responsible for their contributions.</p>
+                    
+                    
+                        <h2>3 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note like tumblelog_dbness without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://vanessahurst.com/" title="Vanessa Hurst " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_f6f244845a16_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://vanessahurst.com/" title="Vanessa Hurst" rel="nofollow">dbness</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/25215503687"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/25215503687/corporations-and-open-ones?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331714&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8yNTIxNTUwMzY4N1wvY29ycG9yYXRpb25zLWFuZC1vcGVuLW9uZXMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSJ9&U=NOBCJHAHHF&K=f56895ca3de5ea17e508b8b8307fa6079191d34ec52b752618c87a85440cab8d&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331714&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8yNTIxNTUwMzY4N1wvY29ycG9yYXRpb25zLWFuZC1vcGVuLW9uZXMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvcG9zdFwvOmlkXC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&U=NOBCJHAHHF&K=3471d88cb90dffe200de9b453a2c4cfbd4ddcd8a59e1435526672716d9082fcc&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331714&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMjUyMTU1MDM2ODdcL2NvcnBvcmF0aW9ucy1hbmQtb3Blbi1vbmVzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMjUyMTU1MDM2ODciLCJibG9naWQiOiI1OTYzMTg2OSIsInNvdXJjZSI6MzN9XX0=&U=IMDJGNKLLC&K=3488c8eb63b90f6e3850f45d3e85dc6b5267b77d34d6195d0de35918e7d214a6&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331714&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMjUyMTU1MDM2ODdcL2NvcnBvcmF0aW9ucy1hbmQtb3Blbi1vbmVzIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMjUyMTU1MDM2ODciLCJibG9naWQiOiI1OTYzMTg2OSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=IMDJGNKLLC&K=d17b3bf55c4cd2d3db1143a9fa73d93c6ef45c80b0b60cfaa1a7e517d4bb97d1&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F8"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F25215503687%2Fcorporations-and-open-ones&amp;pid=25215503687&amp;rk=S2jOMxlp&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F25215503687%2Fcorporations-and-open-ones&amp;pid=25215503687&amp;rk=S2jOMxlp&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>With Payouts, Gittip is Minimally Viable - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=30116848405" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="With Payouts, Gittip is Minimally Viable" /><meta property="og:url" content="http://blog.gittip.com/post/30116848405/with-payouts-gittip-is-minimally-viable" /><meta property="og:description" content="Gittip is a system for funding people who build free culture. The core is small weekly gifts. The idea is that if 1,000 people give &#36;1 a week to a great programmer, musician, scientist, teacher, etc.,..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=30116848405" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=30116848405" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Gittip is a system for funding people who build free culture. The core is small weekly gifts. The idea is that if 1,000 people give &#36;1 a week to a great programmer, musician, scientist, teacher, etc., then that frees them up to pursue their vision even further for making the world better.
+ We&amp;#8217;ve been pulling money into the system for twelve weeks, but until today there was no good way to get money out of the system. There was a bad way, which was me giving you cash from my wallet. I actually did that twice for one Gittip participant, when I ran into him at conferences, for a total of &#36;2.50 withdrawn (followed by manual SQL updates). Then I did make a PayPal donation on&nbsp;behalf&nbsp;of another participant, for a grand total of &#36;26.80 paid out. But meanwhile we&amp;#8217;re now moving over &#36;1,000 per week, and by this morning we had &#36;5,604.76 escrowed in the system.
+ I&amp;#8217;m pleased to announce that you can now connect a bank account to your Gittip profile. If you wire up a bank account, then Gittip will automatically deposit your money in it each week. If you are set up to give to others, then Gittip will reserve that amount in your Gittip account for the following week, to avoid processing fees. There is a &#36;10 minimum withdrawal, and a 30&cent; flat fee on withdrawals. Withdrawals show up on your history page along with gifts to and fro, and any credit card charges.
+ Gittip works closely with Balanced Payments as our payment processor. They are responsible for verifying your identity, securely storing your account details, and processing your payments with the credit card and ACH networks. Balanced is designed specifically for marketplaces such as Gittip, and greatly streamlines the process of verifying the identity of &amp;#8220;merchants&amp;#8221; (as the banks would have it) who receive money through the site.
+ Balanced is US-only for payouts (Balanced and Gittip both support paying&nbsp;in with non-US credit cards). You can voice your interest in support for non-US identity verification and bank accounts on this Balanced ticket and/or this Gittip ticket. In the meantime, I&amp;#8217;m continuing to handle non-US payouts manually. Please contact me, Chad Whitacre, at chad@zetaweb.com, @whit537, or +1-412-925-4220 to arrange for a PayPal payment or check (you&amp;#8217;ll be responsible for postage/fees at cost).
+ Nine out of ten US citizens can verify their identity by providing their name, address, phone number, and date of birth. One in ten will need to also provide their Social Security Number to verify their identity.
+ Two bank accounts were connected for today&amp;#8217;s payday, and &#36;1,147.50 was withdrawn. Withdrawals take one business day to clear the ACH network, so today&amp;#8217;s withdrawals are expected to clear on Monday. We are considering running Gittip payday on Thursdays instead of Fridays so that funds are available in recipient bank accounts on Friday (as is customary for payroll in the US, at least).
+ With this feature, Gittip is now minimally viable. Thanks to Balanced and especially to Balanced employee Marshall Jones for contributing the bulk of the payouts integration.
+ &#36;5,449.41 is currently escrowed in Gittip. If some of that is yours, then go wire up a bank account before Gittip 13 to receive your money!" /><meta name="twitter:title" content="With Payouts, Gittip is Minimally Viable" /><meta name="twitter:url" content="http://blog.gittip.com/post/30116848405/with-payouts-gittip-is-minimally-viable" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=30116848405&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=30116848405&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=30116848405&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/30116848405/with-payouts-gittip-is-minimally-viable">With Payouts, Gittip is Minimally Viable</a></h1>
+                    
+                    
+                    <div class="meta">August 24, 2012, 3:27 pm 
+                    (2 years ago) &ndash; <a href='http://blog.gittip.com/post/30116848405/with-payouts-gittip-is-minimally-viable'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> is a system for funding people who build free culture. The core is small weekly gifts. The idea is that if 1,000 people give $1 a week to a great programmer, musician, scientist, teacher, etc., then that frees them up to pursue their vision even further for making the world better.</p>
+<p>We&#8217;ve been pulling money into the system for <a href="https://www.gittip.com/about/charts.html">twelve weeks</a>, but until today there was no good way to get money <em>out</em> of the system. There was a <em>bad</em> way, which was me giving you cash from my wallet. I actually did that twice for one Gittip participant, when I ran into him at conferences, for a total of $2.50 withdrawn (followed by manual SQL updates). Then I did make a PayPal donation on <a href="https://twitter.com/whit537/status/223077883554430977">behalf</a> of another participant, for a grand total of $26.80 paid out. But meanwhile we&#8217;re now moving over $1,000 per week, and by this morning we had $5,604.76 escrowed in the system.</p>
+<p>I&#8217;m pleased to announce that you can now <strong><a href="https://www.gittip.com/bank-account.html">connect a bank account</a></strong> to your Gittip profile. If you wire up a bank account, then Gittip will automatically deposit your money in it each week. If you are set up to give to others, then Gittip will reserve that amount in your Gittip account for the following week, to avoid processing fees. There is a $10 minimum withdrawal, and a 30¢ flat fee on withdrawals. Withdrawals show up on your history page along with gifts to and fro, and any credit card charges.</p>
+<p>Gittip works <a href="http://blog.gittip.com/post/28351995405/open-partnerships">closely</a> with <a href="https://www.balancedpayments.com/">Balanced Payments</a> as our payment processor. They are responsible for verifying your identity, securely storing your account details, and processing your payments with the credit card and ACH networks. Balanced is designed specifically for marketplaces such as Gittip, and greatly streamlines the process of verifying the identity of &#8220;merchants&#8221; (as the banks would have it) who receive money through the site.</p>
+<p>Balanced is US-only for payouts (Balanced and Gittip both support paying <em>in</em> with non-US credit cards). You can voice your interest in support for non-US identity verification and bank accounts on <a href="https://github.com/balanced/balanced-api/issues/23">this Balanced ticket</a> and/or <a href="https://github.com/zetaweb/www.gittip.com/issues/126">this Gittip ticket</a>. In the meantime, I&#8217;m continuing to handle non-US payouts manually. Please contact me, Chad Whitacre, at <a href="mailto:chad@zetaweb.com">chad@zetaweb.com</a>, <a href="https://twitter.com/whit537">@whit537</a>, or +1-412-925-4220 to arrange for a PayPal payment or check (you&#8217;ll be responsible for postage/fees at cost).</p>
+<p>Nine out of ten US citizens can verify their identity by providing their name, address, phone number, and date of birth. One in ten will need to also provide their Social Security Number to verify their identity.</p>
+<p>Two bank accounts were connected for today&#8217;s payday, and $1,147.50 was withdrawn. Withdrawals take one business day to clear the ACH network, so today&#8217;s withdrawals are expected to clear on Monday. We are <a href="https://github.com/zetaweb/www.gittip.com/issues/259">considering</a> running Gittip payday on Thursdays instead of Fridays so that funds are available in recipient bank accounts on Friday (as is customary for payroll in the US, at least).</p>
+<p>With this feature, Gittip is now minimally viable. Thanks to Balanced and especially to Balanced employee <a href="https://www.gittip.com/mjallday/">Marshall Jones</a> for contributing the bulk of the payouts integration.</p>
+<p>$5,449.41 is currently escrowed in Gittip. If some of that is yours, then go <a href="https://www.gittip.com/bank-account.html">wire up a bank account</a> before Gittip 13 to receive your money!</p>
+                    
+                    
+                        <h2>6 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note reblog tumblelog_decause without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://decause.tumblr.com/" title="from decause import *"><img src="http://33.media.tumblr.com/avatar_3143cbe200a1_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://decause.tumblr.com/post/30402521073"><a rel="nofollow" href="http://decause.tumblr.com/" class="tumblelog" title="from decause import *">decause</a> reblogged this from <a rel="nofollow" href="http://blog.gittip.com/" class="source_tumblelog" title="Gittip Blog">gittip-blog</a></span><div class="clear"></div></li><li class="note like tumblelog_johnneylee without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://johnneylee.tumblr.com/" title="Endless Awake " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_16159a9ba74e_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://johnneylee.tumblr.com/" title="Endless Awake" rel="nofollow">johnneylee</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_decause without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://decause.tumblr.com/" title="from decause import * " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_3143cbe200a1_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://decause.tumblr.com/" title="from decause import *" rel="nofollow">decause</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/30116848405"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/30116848405/with-payouts-gittip-is-minimally-viable?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8zMDExNjg0ODQwNVwvd2l0aC1wYXlvdXRzLWdpdHRpcC1pcy1taW5pbWFsbHktdmlhYmxlIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkifQ==&U=CGOCEBBDBO&K=01af2f9dd0aa5cf64b31b26502d28483d05d991f88a3a485ec8630fcb1b50156&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8zMDExNjg0ODQwNVwvd2l0aC1wYXlvdXRzLWdpdHRpcC1pcy1taW5pbWFsbHktdmlhYmxlIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJub3NjcmlwdCI6MX0=&U=CGOCEBBDBO&K=286a1a796a1d5245c3fcf65fa1bd0954fed71cbbf87fe36d4d9247524a380a28&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMzAxMTY4NDg0MDVcL3dpdGgtcGF5b3V0cy1naXR0aXAtaXMtbWluaW1hbGx5LXZpYWJsZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjMwMTE2ODQ4NDA1IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV19&U=PENDJJNMJK&K=6a1828fb2ce1b85396dd6943785a0384e4ed6d9bbbef68b5734bc5eca14a0c85&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331705&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMzAxMTY4NDg0MDVcL3dpdGgtcGF5b3V0cy1naXR0aXAtaXMtbWluaW1hbGx5LXZpYWJsZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjMwMTE2ODQ4NDA1IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=PENDJJNMJK&K=06b280dbec79ea123107c6257bc67343a77d83fcdd94376046210adedbdea651&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F30116848405%2Fwith-payouts-gittip-is-minimally-viable&amp;pid=30116848405&amp;rk=kWBSrO6c&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F30116848405%2Fwith-payouts-gittip-is-minimally-viable&amp;pid=30116848405&amp;rk=kWBSrO6c&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

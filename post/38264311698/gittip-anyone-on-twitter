@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=779fe45acc2d029187a87fba65d0af9e"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <title>Gittip Anyone on Twitter - Blog - Gittip</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel='icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='shortcut icon' href='https://www.gittip.com/favicon.ico' />
+    <link rel='alternate' type='application/rss+xml' href='http://blog.gittip.com/rss' />
+    
+    <link rel="stylesheet" href="https://www.gittip.com/assets/reset.css"
+            type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="https://assets-gittipllc.netdna-ssl.com/-/gittip.css"
+            type="text/css" charset="utf-8" />
+    <style>
+        #hero a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .back-the-stack-photo {
+            width: 250px;
+            height: 250px;
+            text-align: right;
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+        .meta {
+            text-transform: uppercase;
+            font-size: smaller;
+            margin: 0 0 15px;
+        }
+        .notes {
+            margin: 0;
+            padding: 0;
+        }
+        .notes li {
+            margin: 0 0 5px;
+            padding: 0;
+        }
+        h1 a, h2 a, h3 a, h4 a {
+            font-weight: normal;
+        }
+        
+        #page h1 {
+            margin: 70px 0 8px;    
+        }
+        #page h4 {
+            /* This should match .page h2 on the main site */
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 14px;
+            margin: 35px 0 8px;
+            text-transform: uppercase;                                                  
+            color: #614C3E;
+        }
+        blockquote {
+            padding-left: 1em;
+        }
+        
+        /* Override a couple things from YUI reset */
+        /* These should be upstreamed to the main css. */
+        #page em { font-style: italic; }
+        #page strong { font-weight: bold; }        
+    </style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=gittip-blog&postID=38264311698" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=8082b4b919d77a05b6accc3336dce2f1"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Gittip Anyone on Twitter" /><meta property="og:url" content="http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter" /><meta property="og:description" content="Gittip is a platform for sustainable crowd-funding. It allows you to set up a small, anonymous, weekly cash gift to a person who is doing great work. Gittip launched six months ago, and currently has..." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=38264311698" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=38264311698" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="Gittip is a platform for sustainable crowd-funding. It allows you to set up a small, anonymous, weekly cash gift to a person who is doing great work. Gittip launched six months ago, and currently has about 550 active users, exchanging about &#36;1,400 per week in gifts. At launch, Gittip required an account on GitHub (a social network for programmers) in order to sign in. Now, it&rsquo;s also possible to sign in using a Twitter account, and to pledge support to any Twitter account.
+ This change is important because it significantly expands the number of people that you can pledge support to using Gittip.&nbsp;GitHub is approaching&nbsp;3 million&nbsp;total users, and&nbsp;Twitter announced today that they have 200 million&nbsp;monthly active users.
+ Giving to someone on Gittip is a way of saying thank you, and also a way to support future work with no strings attached. Now you can use Gittip to pledge support to musicians, artists, writers, activists, organizations and anyone else with a Twitter account whose work you feel is important and inspiring. Here are just a few examples to get you thinking about who inspires you:
+ KvonBengtson is pursuing open source space flight.
+ lisakristine is photo-documenting global slavery.
+ rstevens is the author of&nbsp;Diesel Sweeties.
+Note that, while you can pledge tips to anyone on Twitter, Gittip never actually collects money on someone&rsquo;s behalf until they themselves join Gittip.
+ Once signed in with Twitter or GitHub, you can connect the other kind of account, too. If you accidentally create two Gittip accounts, you can merge them together by connecting both accounts to the same Gittip profile. All tips are moved to the new account.
+ Requiring an account on one of these networks in order to join Gittip helps to&nbsp;prevent fraud.&nbsp;It also helps with security, because it keeps Gittip out of the business of storing passwords (for now).
+ Per our roadmap from a couple months ago, the next priorities for Gittip are:
+ Implementing payouts to non-US bank accounts
+ Landing a visual design refresh
+ Partnering with RubyGems.org
+ Increasing code contributions
+ Now go find someone awesome in your Twitter feed, and Gittip them!
+ Chad Whitacre is the founder of Gittip." /><meta name="twitter:title" content="Gittip Anyone on Twitter" /><meta name="twitter:url" content="http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=38264311698&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=38264311698&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=gittip-blog&amp;postID=38264311698&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+    <div class="container"><div id="header">
+        <table><tr><td class="logo">
+            <h1>
+                <a href="https://www.gittip.com/">
+                    <img src="https://www.gittip.com/assets/-/logo.png" alt="Gittip" />
+                </a>
+            </h1>
+            </td><td class="motto luxury">
+            Inspiring Generosity
+        </td></tr></table>
+    </div></div>
+
+    <div id="hero">
+        <div class="main-padding">
+            <h2 class="top"><span><a href="/">Blog</a></span></h2>
+        </div>
+    </div>
+
+    <div class="container"><div id="box-page">
+    
+        <div class="box">
+            <div class="as-content">
+                
+                <a href="https://www.gittip.com/">Gittip</a> is a way to 
+                give money every week to people and teams you believe in.
+                We launched in June, 2012 and as of August, 2014 we have
+                2,900 active users exchanging $13,000 per week.
+                Gittip is funded on Gittip.
+                
+            </div>
+            <div class="nav level-1">
+                
+                <a href="https://www.gittip.com/about/"><button>About</button></a>
+                <a href='http://blog.gittip.com/rss'><button>RSS</button></a>
+
+                
+            </div>
+        </div>
+        
+        <div id="page" class="group">
+            <div class="col0">
+                
+                    
+                        <h1><a href="http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter">Gittip Anyone on Twitter</a></h1>
+                    
+                    
+                    <div class="meta">December 18, 2012, 7:30 pm 
+                    (1 year ago) &ndash; <a href='http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter'>Permalink</a></div>
+                    
+                    
+                    <p><a href="https://www.gittip.com/">Gittip</a> is a platform for sustainable crowd-funding. It allows you to set up a small, anonymous, weekly cash gift to a person who is doing great work. Gittip launched six months ago, and currently has about 550 active users, exchanging about $1,400 per week in gifts. At launch, Gittip required an account on GitHub (a social network for programmers) in order to sign in. Now, it’s also possible to sign in using a Twitter account, and to pledge support to any Twitter account.</p>
+<p>This change is important because it significantly expands the number of people that you can pledge support to using Gittip. GitHub is approaching <a href="https://github.com/about/press">3 million</a> total users, and Twitter announced today that they have <a href="https://twitter.com/TonyW/status/281056150651293697">200 million</a> monthly active users.</p>
+<p>Giving to someone on Gittip is a way of saying thank you, and also a way to support future work with no strings attached. Now you can use Gittip to pledge support to musicians, artists, writers, activists, organizations and anyone else with a Twitter account whose work you feel is important and inspiring. Here are just a few examples to get you thinking about who inspires you:</p>
+<ul><li><a href="https://www.gittip.com/on/twitter/KvonBengtson/">KvonBengtson</a> is pursuing open source space flight.</li>
+<li><a href="https://www.gittip.com/on/twitter/lisakristine">lisakristine</a> is photo-documenting global slavery.</li>
+<li><a href="https://www.gittip.com/on/twitter/rstevens/">rstevens</a> is the author of <a href="http://www.dieselsweeties.com/">Diesel Sweeties</a>.</li>
+</ul><div>Note that, while you can pledge tips to anyone on Twitter, Gittip never actually collects money on someone’s behalf until they themselves join Gittip.</div>
+<p>Once signed in with Twitter or GitHub, you can connect the other kind of account, too. If you accidentally create two Gittip accounts, you can merge them together by connecting both accounts to the same Gittip profile. All tips are moved to the new account.</p>
+<p>Requiring an account on one of these networks in order to join Gittip helps to <a href="http://blog.gittip.com/post/35314128322/the-delpan-incident">prevent fraud</a>. It also helps with security, because it keeps Gittip out of the business of storing passwords (for now).</p>
+<p>Per our <a href="http://blog.gittip.com/post/33391001893/status-report-and-priorities-for-fall-2012">roadmap</a> from a couple months ago, the next priorities for Gittip are:</p>
+<ul><li>Implementing payouts to non-US bank accounts</li>
+<li>Landing a visual design refresh</li>
+<li>Partnering with RubyGems.org</li>
+<li>Increasing code contributions</li>
+</ul><p>Now go find someone awesome in your Twitter <a href="https://twitter.com/following">feed</a>, and <a href="https://www.gittip.com/">Gittip</a> them!</p>
+<hr><p><em><a href="https://www.gittip.com/whit537/">Chad Whitacre</a> is the founder of Gittip.</em></p>
+                    
+                    
+                        <h2>9 notes</h2>
+                        
+                            <ol class="notes"><!-- START NOTES --><li class="note reblog tumblelog_willieavendano without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://willieavendano.me/" title="Willie Avendano"><img src="http://38.media.tumblr.com/avatar_a608dda3df20_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://willieavendano.me/post/38349450139"><a rel="nofollow" href="http://willieavendano.me/" class="tumblelog" title="Willie Avendano">willieavendano</a> reblogged this from <a rel="nofollow" href="http://blog.gittip.com/" class="source_tumblelog" title="Gittip Blog">gittip-blog</a></span><div class="clear"></div></li><li class="note like tumblelog_willieavendano without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://willieavendano.me/" title="Willie Avendano " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_a608dda3df20_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://willieavendano.me/" title="Willie Avendano" rel="nofollow">willieavendano</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_rhetonik without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://rhetonik.com/" title="... Kindof, Almost ..."><img src="http://31.media.tumblr.com/avatar_7a4f46a25a49_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://rhetonik.com/post/38311915156"><a rel="nofollow" href="http://rhetonik.com/" class="tumblelog" title="... Kindof, Almost ...">rhetonik</a> reblogged this from <a rel="nofollow" href="http://blog.gittip.com/" class="source_tumblelog" title="Gittip Blog">gittip-blog</a></span><div class="clear"></div></li><li class="note like tumblelog_saxifrageschool without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://saxifrageschool.tumblr.com/" title="The Saxifrage School " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_20ebd044ab11_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://saxifrageschool.tumblr.com/" title="The Saxifrage School" rel="nofollow">saxifrageschool</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_nivs without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://t.innerlogics.com/" title="hmm " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_3e7f43dc17a0_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://t.innerlogics.com/" title="hmm" rel="nofollow">nivs</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_postpostmortem without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://postpostmortem.tumblr.com/" title="P.P.Mortem"><img src="http://33.media.tumblr.com/avatar_d5c7d3f3dd4f_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://postpostmortem.tumblr.com/post/38306564653"><a rel="nofollow" href="http://postpostmortem.tumblr.com/" class="tumblelog" title="P.P.Mortem">postpostmortem</a> reblogged this from <a rel="nofollow" href="http://blog.gittip.com/" class="source_tumblelog" title="Gittip Blog">gittip-blog</a></span><div class="clear"></div></li><li class="note like tumblelog_techphilosophy without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://nathancampos.me/" title="Current Flow " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_bf962c1aa6b2_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://nathancampos.me/" title="Current Flow" rel="nofollow">techphilosophy</a> likes this</span><div class="clear"></div></li><li class="note like tumblelog_wprl without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://wprl.tumblr.com/" title="Kun.io App Studio Blog " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_ede09b883874_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://wprl.tumblr.com/" title="Kun.io App Studio Blog" rel="nofollow">wprl</a> likes this</span><div class="clear"></div></li><li class="note reblog tumblelog_gittip-blog original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://blog.gittip.com/" title="Gittip Blog"><img src="http://38.media.tumblr.com/avatar_6fc1e89e5818_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://blog.gittip.com/post/38264311698"><a rel="nofollow" href="http://blog.gittip.com/" class="tumblelog" title="Gittip Blog">gittip-blog</a> posted this</span><div class="clear"></div></li><!-- END NOTES --></ol>
+
+                        
+                    
+                
+            </div>
+        </div>
+        
+    </div></div>
+
+    <div class="container"><div id="footer">
+        <b><a href='http://blog.gittip.com/'>Blog</a></b> |
+        <a href="https://www.gittip.com/about/">About</a> |
+        <a href='https://www.gittip.com/about/faq.html'>FAQ</a> |
+        <a href='https://www.gittip.com/about/stats.html'>Stats</a> |
+        <a href='https://www.gittip.com/about/charts.html'>Charts</a> |
+        <a href="https://www.gittip.com/about/terms/">Terms</a> |
+        <a href="https://www.gittip.com/about/privacy/">Privacy</a> |
+        <a href='https://www.gittip.com/about/fraud/'>Fraud</a> |
+        <a href='https://www.gittip.com/security.txt'>Security</a>
+    </div></div>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-247427-33']);
+      _gaq.push(['_setDomainName', '.gittip.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '5162deb4f5a1f5590500012d');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+</div><!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?9e9ba62dc49cabbeef27e3face374f99#http://blog.gittip.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/38264311698/gittip-anyone-on-twitter?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331704&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8zODI2NDMxMTY5OFwvZ2l0dGlwLWFueW9uZS1vbi10d2l0dGVyIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkifQ==&U=LNPCFOPIAN&K=b64b6a148bec5bd68d274cdc27ce8ee9d62ed13320165a12e727893129a70e98&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331704&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5naXR0aXAuY29tXC9wb3N0XC8zODI2NDMxMTY5OFwvZ2l0dGlwLWFueW9uZS1vbi10d2l0dGVyIiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJub3NjcmlwdCI6MX0=&U=LNPCFOPIAN&K=26a41e740f429f1183715b2264ef2b2bc044f145bfcbb7d5ecb1da9156600d40&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1409331704&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMzgyNjQzMTE2OThcL2dpdHRpcC1hbnlvbmUtb24tdHdpdHRlciIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjM4MjY0MzExNjk4IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV19&U=KPMIHLNAEI&K=a8a0155d0cc4fb9a83f9cfa86f68d1adf2e47415611b9afba4ad83fc39da6173&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1409331704&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuZ2l0dGlwLmNvbVwvcG9zdFwvMzgyNjQzMTE2OThcL2dpdHRpcC1hbnlvbmUtb24tdHdpdHRlciIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjM4MjY0MzExNjk4IiwiYmxvZ2lkIjoiNTk2MzE4NjkiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=KPMIHLNAEI&K=09f541beab51342c41b233c64fc06f6047ffa941707e1fdd4e2e879817092047&R=http%3A%2F%2Fblog.gittip.com%2Fpage%2F6"></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/post/:id/:summary',
+                                _li:0,
+                                b_id:59631869,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=3fe16cd6da2d3574b12c24a573ef1e33#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F38264311698%2Fgittip-anyone-on-twitter&amp;pid=38264311698&amp;rk=gZ3Okgfx&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="https://www.tumblr.com/assets/html/iframe/teaser.html?_v=a90e550df50ef2b6b9123982e7b4fa91#src=http%3A%2F%2Fblog.gittip.com%2Fpost%2F38264311698%2Fgittip-anyone-on-twitter&amp;pid=38264311698&amp;rk=gZ3Okgfx&amp;lang=en_US&amp;name=gittip-blog&amp;brag=false&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_6fc1e89e5818_64.png&amp;title=Gittip+Blog&amp;url=http%3A%2F%2Fblog.gittip.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=fa4d54010bc84a02b4dcb585b5737b2c");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>
