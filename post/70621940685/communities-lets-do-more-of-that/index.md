@@ -1,5 +1,5 @@
 ---
-title: Communities: Let&#8217;s Do More of That!
+title: "Communities: Let&#8217;s Do More of That!"
 dateline: December 20, 2013, 5:16 pm
 layout: page
 ---

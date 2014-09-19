@@ -1,5 +1,5 @@
 ---
-title: Back the Stack: Django
+title: "Back the Stack: Django"
 dateline: September 23, 2012, 9:55 pm
 layout: page
 ---

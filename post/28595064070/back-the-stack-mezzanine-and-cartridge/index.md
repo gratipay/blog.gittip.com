@@ -1,5 +1,5 @@
 ---
-title: Back the Stack: Mezzanine and Cartridge
+title: "Back the Stack: Mezzanine and Cartridge"
 dateline: August 14, 2012, 10:09 am
 layout: page
 ---

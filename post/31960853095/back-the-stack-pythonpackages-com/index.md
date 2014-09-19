@@ -1,5 +1,5 @@
 ---
-title: Back the Stack: PythonPackages.com
+title: "Back the Stack: PythonPackages.com"
 dateline: September 20, 2012, 10:04 pm
 layout: page
 ---
