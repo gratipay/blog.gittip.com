@@ -94,11 +94,11 @@ Maybe we mail monthly checks?</p>
 
 <p><strong><strike>Visual Design</strike>. Update:</strong> <a
 href="http://blog.gittip.com/post/42849911683/new-design-new-team">Finished</a>.
-Damon Chin from Balanced has contributed <a href="https://github.com/whit537/www
-.gittip.com/issues/66#issuecomment-7267192">a new visual design</a>, which has
-yet to be implemented. I think this would make Gittip much more accessible to
-those further back on the adoption curve, along with giving us a chance to make
-the site just plain <a
+Damon Chin from Balanced has contributed <a
+href="https://github.com/gratipay/gratipay.com/issues/66#issuecomment-7267192">a
+new visual design</a>, which has yet to be implemented. I think this would make
+Gittip much more accessible to those further back on the adoption curve, along
+with giving us a chance to make the site just plain <a
 href="https://github.com/gratipay/gratipay.com/issues/268">easier to
 use</a>.</p>
 
