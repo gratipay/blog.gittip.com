@@ -64,10 +64,10 @@ myself. Therefore, <a href="http://blog.gittip.com/post/39687487576/gittip-is-
 hiring">Gittip is hiring</a>.</p>
 
 <p><strong>3. The $1 threshold is too high.</strong> In week 8, we upped the
-minimum tip from 25¢ to $1. The <a href="https://github.com/whit537/www.gittip.
-com/issues/180#issuecomment-7259749">thinking</a> at the time was that this
-would increase the amount of money flowing through the system. It’s possible,
-though, that it had the opposite effect.</p>
+minimum tip from 25¢ to $1. The <a
+href="https://github.com/gratipay/gratipay.com/issues/180#issuecomment-7259749">thinking</a>
+at the time was that this would increase the amount of money flowing through
+the system. It’s possible, though, that it had the opposite effect.</p>
 
 <p>This seems to me a plausible explanation for why the number of users has
 grown consistently since week 8, while growth in the number of funders and the

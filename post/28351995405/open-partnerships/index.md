@@ -59,11 +59,12 @@ weird.</p>
 
 <p>It appears that things are going to get even <a
 href="https://twitter.com/balancedpayment/status/230007562752364544">good</a>-<a
-href="https://twitter.com/dwolla/status/230008364531347456">weirder</a>, because
-Dwolla now seems interested in <a href="https://github.com/whit537/www.gittip.co
-m/issues/65#issuecomment-7372389">pursuing</a> a similar relationship. <a
-href="https://www.dwolla.com/">Dwolla</a> intends to displace Visa by moving
-money for $0.25 per transaction instead of 2.9% + $0.30.</p>
+href="https://twitter.com/dwolla/status/230008364531347456">weirder</a>,
+because Dwolla now seems interested in <a
+href="https://github.com/gratipay/gratipay.com/issues/65#issuecomment-7372389">pursuing</a>
+a similar relationship. <a href="https://www.dwolla.com/">Dwolla</a> intends to
+displace Visa by moving money for $0.25 per transaction instead of 2.9% +
+$0.30.</p>
 
 <p>I believe having Dwolla at the table is in the best interest of the Gittip
 community, and I&#8217;d like to welcome them. :-)</p>

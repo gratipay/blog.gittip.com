@@ -42,8 +42,8 @@ href="http://www.gittip.com/about/charts.html">growing</a> 5-10% per week.</li>
 href="https://github.com/gratipay/gratipay.com/issues">issues</a>, and 144
 closed issues.</li>
 
-<li>15 people have contributed <a href="https://github.com/whit537/www.gittip.co
-m/graphs/contributors">code</a>.</li>
+<li>15 people have contributed <a
+href="https://github.com/gratipay/gratipay.com/graphs/contributors">code</a>.</li>
 
 <li>Many people have participated in the Gittip community, via GitHub, Twitter,
 and Hacker News, and IRC, in particular.</li></ul>

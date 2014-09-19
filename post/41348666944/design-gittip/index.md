@@ -124,10 +124,10 @@ href="https://gumroad.com/">Gumroad</a></strong>.</li></ul></div><h4>Information
 <li><strong>/%participant_id/</strong> - Allows individuals and groups to tell
 their story, connect accounts elsewhere, and manage their giving.</li>
 
-<li><strong>/%participant_id/funds/</strong> - Allows users to manage
-“funds.” Think mutual funds; see <a href="https://github.com/zetaweb/www.git
-tip.com/issues/449#issuecomment-12440694">this ticket</a> for a
-description.</li>
+<li><strong>/%participant_id/funds/</strong> - Allows users to manage “funds.”
+Think mutual funds; see <a
+href="https://github.com/gratipay/gratipay.com/issues/449#issuecomment-12440694">this
+ticket</a> for a description.</li>
 
 <li><strong>/communities/%community/</strong> - Aggregates information about
 givers, receivers, and funds within a certain community. Community pages are
