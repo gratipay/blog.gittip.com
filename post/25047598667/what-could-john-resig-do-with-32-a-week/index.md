@@ -19,8 +19,8 @@ community depends on jQuery. Imagine if Resig had applied himself to building a
 social network instead. And yet, while I&#8217;m sure he draws a nice salary,
 he isn&#8217;t a billionaire. What if you could anonymously give John Resig
 32¢ a week, just to say thank you? <a
-href="https://www.gittip.com/github/jeresig/">Now you can.</a></p>
+href="https://www.gittip.com/on/github/jeresig/">Now you can.</a></p>
 
 <p>What if 10,000 of us gave John 32¢ a week? I would <strong>trust him to do
 awesome things</strong> with it. <a
-href="https://www.gittip.com/github/jeresig/">Wouldn&#8217;t you?</a></p>
+href="https://www.gittip.com/on/github/jeresig/">Wouldn&#8217;t you?</a></p>
