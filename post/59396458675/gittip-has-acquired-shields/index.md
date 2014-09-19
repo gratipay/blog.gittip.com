@@ -62,7 +62,7 @@ Olivier&#8217;s GitHub account to the Gittip organization, and has been renamed
 from &#8220;shields&#8221; to &#8220;shields.io&#8221; to indicate the emphasis
 on the web service going forward. We&#8217;ve set up a <a
 href="https://twitter.com/Shields_io">Shields_io</a> Twitter account and a <a
-href="https://www.gittip.com/Shields.io/">Shields.io</a> team on Gittip.</p>
+href="https://www.gittip.com/Shields/">Shields</a> team on Gittip.</p>
 
 <p>True to our shared love of openness, the agreement for Gittip to acquire
 Shields was reached over the course of two live-broadcast video conferences (<a
