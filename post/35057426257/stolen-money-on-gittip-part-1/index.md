@@ -19,7 +19,7 @@ grown by word of mouth, so to have a new user unconnected to the rest of the
 Gittip social graph is unusual. But I didn&#8217;t want to jump to conclusions.
 There&#8217;s a Counter-Strike player that goes by delpan; maybe Gittip was
 breaking out into a new community? We <a
-href="https://github.com/whit537/www.gittip.com/issues/329">adopted</a> a wait
+href="https://github.com/gratipay/gratipay.com/issues/329">adopted</a> a wait
 and see approach.</p>
 
 <p>Since then, it has become clear that delpan and other accounts on Gittip are
@@ -87,7 +87,7 @@ to make good.</p><h4>What do we do?</h4>
 
 <p>The most important thing is to prevent stolen money from entering the system
 in the first place. Therefore, I am <a
-href="https://github.com/whit537/www.gittip.com/issues/356">instituting a
+href="https://github.com/gratipay/gratipay.com/issues/356">instituting a
 whitelist</a>: every giver will be reviewed and approved before Gittip charges
 their credit card. Gittip has about 350 credit cards on file and is only adding
 a few each week right now, so for the immediate future I will just manually

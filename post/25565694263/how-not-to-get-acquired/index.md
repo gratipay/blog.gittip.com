@@ -105,13 +105,13 @@ of trying is in danger of getting squished right out of the gate. More
 importantly, I&#8217;m on the hook for 25 people&#8217;s credit card data stored
 PCI-compliantly away inside a dying system. Gah!</p>
 
-<p>So I <a href="https://github.com/whit537/www.gittip.com/issues/58">migrated
+<p>So I <a href="https://github.com/gratipay/gratipay.com/issues/58">migrated
 to Stripe</a>. I still may implement Braintree as a back-up, but there I&#8217;m
 blocked on trying to migrate my merchant account over from Samurai. Stripe
 doesn&#8217;t even give me the option of bringing my own merchant account. I
 also learned about <a href="https://www.dwolla.com/">Dwolla</a> in all of this,
 and I&#8217;m really <a
-href="https://github.com/whit537/www.gittip.com/issues/65">interested</a> in
+href="https://github.com/gratipay/gratipay.com/issues/65">interested</a> in
 it. But Stripe was the lowest-hanging fruit.</p><h4>Bottom Line for Gittip Users</h4>
 
 <p>Unfortunately, I felt that I had to redact all of the credit card
@@ -122,7 +122,7 @@ data out. This means that Gittip is currently down to one credit card on file,
 mine, and I&#8217;m here trying to salvage the momentum of the first two weeks,
 during which Gittip had 5,900 unique visitors, 515 sign-ups, 25 credit cards
 entered, and some <a
-href="https://github.com/whit537/www.gittip.com/issues/28">amazing community
+href="https://github.com/gratipay/gratipay.com/issues/28">amazing community
 involvement</a>.</p>
 
 <p>That said, I should have taken it more seriously when on May 15 I started

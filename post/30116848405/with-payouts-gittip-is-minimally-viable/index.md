@@ -46,7 +46,7 @@ paying <em>in</em> with non-US credit cards). You can voice your interest in
 support for non-US identity verification and bank accounts on <a
 href="https://github.com/balanced/balanced-api/issues/23">this Balanced
 ticket</a> and/or <a
-href="https://github.com/zetaweb/www.gittip.com/issues/126">this Gittip
+href="https://github.com/gratipay/gratipay.com/issues/126">this Gittip
 ticket</a>. In the meantime, I&#8217;m continuing to handle non-US payouts
 manually. Please contact me, Chad Whitacre, at <a
 href="mailto:chad@zetaweb.com">chad@zetaweb.com</a>, <a
@@ -61,7 +61,7 @@ provide their Social Security Number to verify their identity.</p>
 <p>Two bank accounts were connected for today&#8217;s payday, and $1,147.50 was
 withdrawn. Withdrawals take one business day to clear the ACH network, so
 today&#8217;s withdrawals are expected to clear on Monday. We are <a
-href="https://github.com/zetaweb/www.gittip.com/issues/259">considering</a>
+href="https://github.com/gratipay/gratipay.com/issues/259">considering</a>
 running Gittip payday on Thursdays instead of Fridays so that funds are
 available in recipient bank accounts on Friday (as is customary for payroll in
 the US, at least).</p>

@@ -120,5 +120,5 @@ nor that discussing possible ways to reach out to the open source community and
 evangelize the idea of personal funding is time wasted. What I want to establish
 is that I have no big Master Plan, and that that&#8217;s a good thing.
 Let&#8217;s be clear on that, and then by all means <a
-href="https://github.com/whit537/www.gittip.com/issues/109">let&#8217;s figure
+href="https://github.com/gratipay/gratipay.com/issues/109">let&#8217;s figure
 out how to get this swarm moving</a>!</p>

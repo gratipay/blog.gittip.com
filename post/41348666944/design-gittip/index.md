@@ -7,7 +7,7 @@ layout: page
 <p><span>Design community, I need your help. There’s a stigma associated with
 </span><a href="https://www.gittip.com/">Gittip</a><span> that it’s only for
 open source programmers. To be sure, some of that comes from the name (which we
-</span><a href="https://github.com/zetaweb/www.gittip.com/issues/138">tried
+</span><a href="https://github.com/gratipay/gratipay.com/issues/138">tried
 hard</a><span> to change, but which we just need to live with for now). My sense
 is that the bigger problem is that the visual design that Gittip launched with
 seven months ago is holding us back from being taken seriously by the design
@@ -16,7 +16,7 @@ artists. This is a bummer because that’s exactly who we want Gittip to work
 for. I want to support my favorite musicians on Gittip.</span></p>
 
 <p>Within weeks of launching we started a <a
-href="https://github.com/zetaweb/www.gittip.com/issues/66">ticket</a> to
+href="https://github.com/gratipay/gratipay.com/issues/66">ticket</a> to
 “change the visual design of Gittip.” It proved to be a fairly popular
 ticket, and a month later we received a design contribution from <a
 href="https://twitter.com/damon_sf">Damon Chin</a> (an employee of Gittip’s
@@ -131,7 +131,7 @@ description.</li>
 
 <li><strong>/communities/%community/</strong> - Aggregates information about
 givers, receivers, and funds within a certain community. Community pages are
-described in <a href="https://github.com/zetaweb/www.gittip.com/issues/496">this
+described in <a href="https://github.com/gratipay/gratipay.com/issues/496">this
 ticket</a>.</li>
 
 <li><strong>/on/twitter/</strong>, etc. - Represent accounts on other services

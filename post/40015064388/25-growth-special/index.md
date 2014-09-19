@@ -46,7 +46,7 @@ href="http://blog.gittip.com/post/35314128322/the-delpan-incident">fraud
 incident</a>, which took up a good deal of time without adding direct value to
 Gittip users. The most glaring result of this neglect is Gittip’s
 continued <a
-href="https://github.com/whit537/www.gittip.com/issues/126">inability</a> to
+href="https://github.com/gratipay/gratipay.com/issues/126">inability</a> to
 pay out to people without a U.S. bank account.</p>
 
 <p>The reason I spent so little time on Gittip is that I was doing other things:
@@ -74,7 +74,7 @@ grown consistently since week 8, while growth in the number of funders and the
 volume of giving has trailed off. New people are showing up on Gittip, signing
 up, going to leave a tip, and then balking at the price tag. In the long run I
 expect to implement a <a
-href="https://github.com/whit537/www.gittip.com/issues/434">sliding scale</a>,
+href="https://github.com/gratipay/gratipay.com/issues/434">sliding scale</a>,
 inspired by Humble Bundle. In the short term, I’m going to run an experiment
 for the month of January: I&#8217;ve added back the 25¢ tip amount. If you’ve
 avoided tipping on Gittip because the price tag is too high, this is your

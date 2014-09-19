@@ -71,6 +71,6 @@ It&#8217;s a subtle but significant difference.</p>
 <p>Legally speaking, Gittip may shake out as a cooperative or a corporation,
 it&#8217;s too early to tell. But I promise you this: it will continue to be as
 open as possible. Gittip development happens <a
-href="https://github.com/whit537/www.gittip.com">in the open</a>. Gittip&#8217;s
+href="https://github.com/gratipay/gratipay.com">in the open</a>. Gittip&#8217;s
 finances will be in the open. And the specific humans contributing to Gittip
 will do so in the open, each personally responsible for their contributions.</p>

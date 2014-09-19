@@ -4,7 +4,7 @@ dateline: October 24, 2012, 11:22 am
 layout: page
 ---
 
-<p><strong>Update:</strong> <a href="https://github.com/whit537/www.gittip.com/i
+<p><strong>Update:</strong> <a href="https://github.com/gratipay/gratipay.com/i
 ssues/297#issuecomment-11290946">Denied</a>.</p>
 
 <p>Gittip is <a href="http://blog.gittip.com/post/26350459746/the-first-open-

@@ -21,7 +21,7 @@ Gittip. We trust you.</p>
 <p>Is full personal funding viable with Gittip? We started out with the ability
 to gift tip someone a few cents a week. The possible amounts were 8¢, 16¢,
 32¢, 64¢, and $1.28. But when we <a
-href="https://github.com/whit537/www.gittip.com/issues/95">looked at the
+href="https://github.com/gratipay/gratipay.com/issues/95">looked at the
 numbers</a>, it seemed like this wasn&#8217;t going to add up. A fairly popular
 open source programmer will have maybe 5,000 followers on Twitter. If all of
 those followers tipped 64¢, that would add up to $3,200 per week, or $166,400

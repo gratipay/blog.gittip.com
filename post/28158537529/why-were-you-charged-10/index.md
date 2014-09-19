@@ -18,7 +18,7 @@ once we only have to charge you a $0.68 fee, which turns out to be 7% of the
 $9.32 that is actually credited to your Gittip account.</p>
 
 <p>We hope to <a
-href="https://github.com/whit537/www.gittip.com/issues/65">implement Dwolla</a>
+href="https://github.com/gratipay/gratipay.com/issues/65">implement Dwolla</a>
 to reduce these fees even further, but while getting started we thought it best
 to implement credit cards first since they&#8217;re much more widely
 adopted.</p>
