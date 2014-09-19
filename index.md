@@ -1,5 +1,5 @@
 ---
-title: Old Gittip Blog
+title: Index
 dateline:
 layout: page
 ---
