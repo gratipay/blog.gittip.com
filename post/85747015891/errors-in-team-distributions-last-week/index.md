@@ -32,5 +32,5 @@ issue</a>.</p>
 
 <p>Sorry for the error. If you have any questions or concerns, please get in
 touch on <a href="https://twitter.com/Gittip">Twitter</a> or <a
-href="irc://irc.freenode.net/#gratipay">IRC</a> or <a
+href="irc://irc.freenode.net/#gittip">IRC</a> or <a
 href="mailto:support@gittip.com">email</a>.</p>
