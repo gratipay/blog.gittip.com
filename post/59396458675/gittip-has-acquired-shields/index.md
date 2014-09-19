@@ -88,5 +88,5 @@ useful project metadata to the open-source community!</span></p><hr>
 <p><em>Visit <a href="https://github.com/gittip/shields.io">the repo</a> to
 help build Shields.io.</em></p>
 
-<p><em>Use Gittip to help <a href="https://www.gittip.com/Shields.io/">fund the
+<p><em>Use Gittip to help <a href="https://www.gittip.com/Shields/">fund the
 team</a> behind Shields.io.</em></p>
