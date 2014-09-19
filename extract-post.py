@@ -18,14 +18,12 @@ for root, dirs, files in os.walk('post'):
     state = FRONT
     title = dateline = body = ''
 
-    for line in open(filename):
-        line = line.strip()
+    for raw in open(filename):
+        line = raw.strip()
 
         if 'class="col0"' in line:
             state = HEADER
             continue
-        elif 'note</h2>' in line or 'notes</h2>' in line:
-            break
 
         if state == HEADER:
             if 'h1' in line:
@@ -40,6 +38,8 @@ for root, dirs, files in os.walk('post'):
         elif state == BODY:
             if not line:
                 continue
+            if 'note</h2>' in line or 'notes</h2>' in line or raw.startswith('            </div>'):
+                break
             wrapped = '\n'.join(textwrap.wrap(line, 80))
             for tag in ('p', 'li', 'ul', 'ol', 'blockquote', 'div'):
                 wrapped = wrapped.replace('<'+tag, '\n\n<'+tag)
@@ -60,7 +60,7 @@ for root, dirs, files in os.walk('post'):
     listing.append({'title': title, 'href': '/'+root+'/', 'dateline': dateline})
 
 
-if 1:
+if 0:
     print '''\
 ---
 title: Old Gittip Blog
