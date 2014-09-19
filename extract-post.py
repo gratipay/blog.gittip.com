@@ -59,14 +59,17 @@ for root, dirs, files in os.walk('post'):
 
     listing.append({'title': title, 'href': '/'+root+'/', 'dateline': dateline})
 
-print '''\
+
+if 1:
+    print '''\
 ---
 title: Old Gittip Blog
 dateline:
 layout: page
 ---'''
-print '<table>'
-for post in reversed(listing):
-    tr = '<tr><td class="dateline">%(dateline)s</td><td><a href="%(href)s">%(title)s</a></td></tr>'
-    print tr % post
-print '</table>'
+    print '<table>'
+    for post in reversed(listing):
+        post['dateline'] = post['dateline'].rsplit(',', 1)[0]
+        tr = '<tr><td class="dateline">%(dateline)s</td><td><a href="%(href)s">%(title)s</a></td></tr>'
+        print tr % post
+    print '</table>'
