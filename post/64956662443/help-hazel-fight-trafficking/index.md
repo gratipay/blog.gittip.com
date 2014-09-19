@@ -8,9 +8,9 @@ layout: page
 
 <blockquote>
 
-<p>I wanted to let you know about a very special account now on Gittip:Â <a href
-="https://www.gittip.com/Hazel_Mae12/">https://www.gittip.com/Hazel_Mae12/</a>.Â
- Hazel is our god-daughter. After having been trafficked as a minor by a violent
+<p>I wanted to let you know about a very special account now on Gittip: <a
+href="https://www.gittip.com/Hazel_Mae12/">https://www.gittip.com/Hazel_Mae12/</a>.
+Hazel is our god-daughter. After having been trafficked as a minor by a violent
 man, beaten, held against her will, she found the courage in her heart and the
 allies (from the U.S. Attorney&#8217;s office) to escape and stand up to him in
 court and see him put in jail for 30 years. California Rep. Juan Vargas has
@@ -38,6 +38,6 @@ industry, I ask that you consider promoting Hazel&#8217;s account as an example
 of what we can do together when we look to ourselves for support, rather than
 corporations and governments.</p></blockquote>
 
-<p>We couldn&#8217;t be moreÂ honored to have Hazel Mae on Gittip. Please
+<p>We couldn&#8217;t be more honored to have Hazel Mae on Gittip. Please
 consider <a href="https://www.gittip.com/Hazel_Mae12/">supporting her
 work</a>.</p>

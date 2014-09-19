@@ -21,8 +21,8 @@ you were also receiving money, which was confusing and also wasted money in
 credit card fees.</p>
 
 <p>This has been a significant engineering effort for our team, which is still
-very much in the bootstrapping phase. In fact, we think of ourselves as &#8220
-;double-bootstrapping,&#8221; since we&#8217;re trying to <a
+very much in the bootstrapping phase. In fact, we think of ourselves as 
+&#8220;double-bootstrapping,&#8221; since we&#8217;re trying to <a
 href="https://www.gittip.com/Gittip/">fund ourselves</a> on the very platform
 we&#8217;re building. In particular I&#8217;d like to thank <a
 href="https://www.gittip.com/Changaco/">Changaco</a> for all of his hard work on
