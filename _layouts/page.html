@@ -9,6 +9,7 @@
             .body { max-width: 500px; padding: 10px; }
             h1 { font: bold 24px/30px "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif; }
             .notice { font: italic 14px/19px "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif; }
+            .highlight { background: #ff9; }
             .dateline { font: normal 14px/19px "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif; }
             .content { font: normal 14px/19px "Chronicle SSm A", "Chronicle SSm B", serif; }
             td.dateline { padding-right: 20px; text-align: right; }
@@ -18,10 +19,9 @@
     <body>
         <div class="body">
 
-            <p class="notice">This is the <a href="/">old Gittip blog</a>. We
-            have <a
-            href="https://medium.com/gratipay-blog/gratitude-gratipay-ef24ad5e41f9">renamed
-        to Gratipay and moved our blog</a>.</p>
+            <p class="notice"><span class="highlight">This is the <a href="/">old Gittip blog</a>. We
+            have <a href="https://gratipay.news/gratitude-gratipay-ef24ad5e41f9">renamed
+                to Gratipay</a> and <a href="https://gratipay.news/">moved our blog</a>.</span></p>
 
             <h1>{{ page.title }}</h1>
             <div class="dateline">{{ page.dateline }}</div>
